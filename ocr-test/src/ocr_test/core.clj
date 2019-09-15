@@ -4,17 +4,18 @@
            [java.awt.image BufferedImage]
            [javax.imageio ImageIO]
            [java.io File])
-  (require '[clojure.string :as string]))
+  (require '[clojure.string :as string]
+    '[clojure.java.io :as io]))
 
 
 ;; settings
-(def tesseract-data-dir "/usr/share/tessdata")
+(def tesseract-data-dir "./resources")
 (def language "eng")
-(def test-file "eurotext.png")
+(def test-file "./resources/test/UHAPDMB3ZYTCADBDA.png")
 
 
 (defn prepare-tesseract [data-path]
-  (let [t (. Tesseract getInstance)]
+  (let [t (new Tesseract)]
     (.setDatapath t data-path)
     t))
 
@@ -28,6 +29,10 @@
   (let [tesseract (prepare-tesseract tesseract-data-dir)
         result    (ocr tesseract language (new File test-file))]
     (println result)))
+
+
+  
+  
 
 (def vin-chars "ABCDEFGHJKMNPRSTUVWXYZ0123456789")
 
@@ -55,6 +60,31 @@
     (ImageIO/write image "png" file)))  
 
 (defn split-vin [x] (string/split x #"[~%]"))
+(defn new-file-name [x] (str ((split-vin x) 1) ".png"))
 (defn get-files [] (map #(.getName %) (.listFiles (File. "./resources/cloud_test"))))
+
+(str (split-vin (apply str (take 1 (get-files)))) 1)
+
+(defn copy-file [x]
+  (let [new-name (str "./resources/test/" (new-file-name x))
+        old-name (str "./resources/cloud_test/" x)]
+    (do
+      (str "old: " old-name " new: " new-name)
+      (io/copy (io/file old-name) (io/file new-name)))))      
+      
+(take 2(map #(copy-file %) (get-files)))  
+
+(defn get-file-from [x]
+   (map #(.getName %) (.listFiles (File. x))))
+  
+(defn scan-ocr [x]
+  (let [tesseract (prepare-tesseract tesseract-data-dir)
+        result    (ocr tesseract language (new File x))]
+    result))
+
+(defn scan-all [x]
+  (map #(scan-ocr (str x "/" %)) (get-file-from x)))
+    
+  
 
 
