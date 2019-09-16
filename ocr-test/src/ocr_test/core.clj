@@ -1,11 +1,12 @@
 (ns ocr-test.core
-  (:import net.sourceforge.tess4j.Tesseract)
   (:import [java.awt Graphics2D Color Font]
            [java.awt.image BufferedImage]
            [javax.imageio ImageIO]
-           [java.io File])
-  (require '[clojure.string :as string]
-    '[clojure.java.io :as io]))
+           [java.io File]
+           [net.sourceforge.tess4j Tesseract])
+  (:require 
+            [clojure.string :as string]
+            [clojure.java.io :as io]))
 
 
 ;; settings
@@ -24,15 +25,14 @@
   (.setLanguage t lang)
   (.doOCR t img))
 
-
 (defn -main []
+  (println "Hello, World!" ))
+
+(defn -main1 []
   (let [tesseract (prepare-tesseract tesseract-data-dir)
         result    (ocr tesseract language (new File test-file))]
     (println result)))
 
-
-  
-  
 
 (def vin-chars "ABCDEFGHJKMNPRSTUVWXYZ0123456789")
 

@@ -4,6 +4,11 @@
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.0"]
-                 [net.sourceforge.tess4j/tess4j "4.4.0"]
-                 [org.clojure/data.generators "0.1.2"]] 
-  :repl-options {:init-ns ocr-test.core})
+                 [net.sourceforge.tess4j/tess4j "4.4.0"  :exclusions [org.slf4j/slf4j-api]]
+                 [org.clojure/data.generators "0.1.2"]
+                 [http-kit "2.3.0"]] 
+  :repl-options {:init-ns ocr-test.core}
+  :plugins[[lein-ancient "0.6.15"]]
+  :main ^:skip-aot ocr-test.core
+  :target-path "target/%s"
+  :profiles {:uberjar {:aot :all}})  
