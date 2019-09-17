@@ -25,8 +25,9 @@
   (.setLanguage t lang)
   (.doOCR t img))
 
-(defn -main []
-  (println "Hello, World!" ))
+
+  
+  
 
 (defn -main1 []
   (let [tesseract (prepare-tesseract tesseract-data-dir)
@@ -82,8 +83,17 @@
         result    (ocr tesseract language (new File x))]
     result))
 
+(defn scan-ocr-file [image-file]
+  (let [tesseract (prepare-tesseract tesseract-data-dir)
+        result    (ocr tesseract language image-file)]
+    result))
+
 (defn scan-all [x]
-  (map #(scan-ocr (str x "/" %)) (get-file-from x)))
+  (map #(string/trim (scan-ocr (str x "/" %))) (get-file-from x)))
+
+(defn -main []
+  (scan-ocr "resources/test/06L5ZP35RAPHZ9FUK.png"))
+  ;(println "Hello, World!"))
     
   
 
