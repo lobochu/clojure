@@ -21,13 +21,12 @@
     t))
 
 
+
 (defn ocr [t lang img]
   (.setLanguage t lang)
   (.doOCR t img))
 
-
-  
-  
+ 
 
 (defn -main1 []
   (let [tesseract (prepare-tesseract tesseract-data-dir)
@@ -77,16 +76,20 @@
 
 (defn get-file-from [x]
    (map #(.getName %) (.listFiles (File. x))))
-  
+
+(defn trim-all-spaces [input]
+  (string/join "" (string/split (string/trim input) #"\s+")))
+
 (defn scan-ocr [x]
   (let [tesseract (prepare-tesseract tesseract-data-dir)
         result    (ocr tesseract language (new File x))]
-    result))
+    (trim-all-spaces result)))
+
 
 (defn scan-ocr-file [image-file]
   (let [tesseract (prepare-tesseract tesseract-data-dir)
         result    (ocr tesseract language image-file)]
-    result))
+    (trim-all-spaces result)))
 
 (defn scan-all [x]
   (map #(string/trim (scan-ocr (str x "/" %))) (get-file-from x)))
@@ -94,6 +97,34 @@
 (defn -main []
   (println (scan-ocr "resources/test/06L5ZP35RAPHZ9FUK.png")))
   ;(println "Hello, World!"))
+
+  
+(defn compare [a b]
+  (let 
+    [result (trim-all-spaces)
+     name (first (string/split b #"[.]"))]
+    (if (= result name)                                              
+      " "
+      (str result " != " name))))
+  
+      ;(str a " not match " name)
+      
+      
+      
+(defn test-ocr [path]
+;  (map #((if (= %1 (first (string/split %2 #"[.]"))) "match" "not match")) (zipmap (scan-all path) (get-file-from path)))
+   (map #(compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path))))
+   ;(count (seq (map #(compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path)))))
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
     
   
 
