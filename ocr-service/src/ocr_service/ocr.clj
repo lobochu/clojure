@@ -99,12 +99,11 @@
   ;(println "Hello, World!"))
 
   
-(defn compare [a b]
+(defn my-compare [a b]
   (let 
-    [result (trim-all-spaces)
+    [result (trim-all-spaces a)
      name (first (string/split b #"[.]"))]
-    (if (= result name)                                              
-      " "
+    (if (not= result name)                                              
       (str result " != " name))))
   
       ;(str a " not match " name)
@@ -113,8 +112,16 @@
       
 (defn test-ocr [path]
 ;  (map #((if (= %1 (first (string/split %2 #"[.]"))) "match" "not match")) (zipmap (scan-all path) (get-file-from path)))
-   (map #(compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path))))
+   (map #(my-compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path))))
    ;(count (seq (map #(compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path)))))
+
+(defn ocr-result [result]
+  (let [total (count result)
+        passed (count (filter nil? result))
+        failed (- total passed)]
+    (str "total: " total " passed: " passed " failed: " failed " success rate: " (float (/ passed total)))))
+  
+
   
   
   
