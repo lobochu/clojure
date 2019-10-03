@@ -6,24 +6,26 @@
             [compojure.route :as route]
             [ring.middleware.defaults :refer [wrap-defaults site-defaults]]
             [ocr-service.ocr :as ocr]
-            [clojure.java.io :as io]))
+            [clojure.java.io :as io]
+            [clojure.string :as string]))
   
             
 
-(defn new-file [filename tempfile]
-  (let [file (File. filename)]
-    do (
-        (println tempfile)
-        (.renameTo (io/file tempfile) file) 
-        (class file))))
-    
-  
+(defn new-file [old-file-path new-file-path]
+  (do (
+       (println old-file-path)
+       (.renameTo (io/file old-file-path) (io/file new-file-path))))) 
+
+(defn rename-file [old-file new-name]
+  (let [old-path (.getAbsolutePath old-file)
+        old-name (.getName old-file)
+        new-path (string/replace-first old-path old-name new-name)]
+    (.renameTo old-file (io/file new-path)) new-path))   
 
 
 (defroutes app-routes
   (GET "/" [] "Hello World")
-  
-  
+    
   (POST "/ocr" request
     (let [file (-> request :file)
           content (-> request :content)]
@@ -38,17 +40,14 @@
   (POST "/ocr3" 
     {{ {tempfile  :tempfile filename :filename} :file} :params :as params}
     (println (str "================================filename " filename " tempfile: " (.getName tempfile) " params: " params))
-    (io/copy tempfile (io/file filename))
-    (println (str "new file name" (.getName tempfile)))
+    ;(io/copy tempfile (io/file filename))
+    ;(rename-file tempfile filename)
+    ;(println (str "new file name" (.getName tempfile)))
     ;(ocr/scan-ocr-file (File. "resources/test/06L5ZP35RAPHZ9FUK.png"))
-    (ocr/scan-ocr-file (io/file filename)))
+    (ocr/scan-ocr-file (io/file (rename-file tempfile filename))))
   
-  (route/not-found "Not Found"))
-
-          
-      
+  (route/not-found "Not Found"))      
     
-
 (def app
   (wrap-defaults app-routes 
     (assoc-in site-defaults [:security :anti-forgery] false)))

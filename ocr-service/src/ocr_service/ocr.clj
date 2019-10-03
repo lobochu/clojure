@@ -75,14 +75,14 @@
 (take 2(map #(copy-file %) (get-files)))  
 
 (defn get-file-from [x]
-   (map #(.getName %) (.listFiles (File. x))))
+   (map #(.getName %) (.listFiles (io/file x))))
 
 (defn trim-all-spaces [input]
   (string/join "" (string/split (string/trim input) #"\s+")))
 
 (defn scan-ocr [x]
   (let [tesseract (prepare-tesseract tesseract-data-dir)
-        result    (ocr tesseract language (new File x))]
+        result    (ocr tesseract language (io/file x))]
     (trim-all-spaces result)))
 
 
@@ -103,7 +103,7 @@
   (let 
     [result (trim-all-spaces a)
      name (first (string/split b #"[.]"))]
-    (if (not= result name)                                              
+    (when (not= result name)                                              
       (str result " != " name))))
   
       ;(str a " not match " name)
@@ -114,14 +114,6 @@
 ;  (map #((if (= %1 (first (string/split %2 #"[.]"))) "match" "not match")) (zipmap (scan-all path) (get-file-from path)))
    (map #(my-compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path))))
    ;(count (seq (map #(compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path)))))
-
-(defn ocr-result [result]
-  (let [total (count result)
-        passed (count (filter nil? result))
-        failed (- total passed)]
-    (str "total: " total " passed: " passed " failed: " failed " success rate: " (float (/ passed total)))))
-  
-
   
   
   
