@@ -1,0 +1,901 @@
+filename,font,text_color,backgourd_color,width,height,expectedVin,reconginzedVin,processTime,accuracy,scanSuccessful
+vin~00THSJ0VGNJAPGWEP%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,909.0,93.0,00THSJ0VGNJAPGWEP,00THSJ0VGNJAPGWEP,597.0,1.0,true
+vin~00THSJ0VGNJAPGWEP%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,00THSJ0VGNJAPGWEP,P00THSJ0VGNJAPGWE,650.0,0.0,true
+vin~00THSJ0VGNJAPGWEP%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,00THSJ0VGNJAPGWEP,00THSJ0VGNJAPGVVE,684.0,0.0,true
+vin~052KC8N8JJN7REALM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,052KC8N8JJN7REALM,052KC8DNL8JJN7REA,577.0,0.0,true
+vin~052KC8N8JJN7REALM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,052KC8N8JJN7REALM,052KC8N8JJN7REALM,699.0,1.0,true
+vin~052KC8N8JJN7REALM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,052KC8N8JJN7REALM,052KC8N8JJN7MEJLM,604.0,0.0,true
+vin~0DBBE2889N6A113LM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0DBBE2889N6A113LM,0DBBE2889N6A113LM,602.0,1.0,true
+vin~0DBBE2889N6A113LM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0DBBE2889N6A113LM,0DBBE2889N6A1131M,550.0,0.0,true
+vin~0DBBE2889N6A113LM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0DBBE2889N6A113LM,0DBBE2889N9M13LM1,615.0,0.0,true
+vin~0E0ULM7EPJK8PEN25%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0E0ULM7EPJK8PEN25,0E0ULM7EPJK8PEN25,645.0,1.0,true
+vin~0E0ULM7EPJK8PEN25%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0E0ULM7EPJK8PEN25,0E0ULM7EPJK8PEN25,689.0,1.0,true
+vin~0E0ULM7EPJK8PEN25%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0E0ULM7EPJK8PEN25,0E0ULM7EPJK8PEN25,551.0,1.0,true
+vin~0GRGHP1R0FFP3XTF8%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0GRGHP1R0FFP3XTF8,0GRGJP1R0FFP3XTF8,789.0,0.0,true
+vin~0GRGHP1R0FFP3XTF8%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0GRGHP1R0FFP3XTF8,0GRGHP1R0FFP3XTF8,609.0,1.0,true
+vin~0GRGHP1R0FFP3XTF8%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0GRGHP1R0FFP3XTF8,0GRGHP1R0FFP3XTF8,582.0,1.0,true
+vin~0MH12KVU84J39TNTU%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0MH12KVU84J39TNTU,0MH12KVU84J39TNTU,562.0,1.0,true
+vin~0MH12KVU84J39TNTU%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0MH12KVU84J39TNTU,0MH12KVU84J39TNTU,477.0,1.0,true
+vin~0MH12KVU84J39TNTU%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0MH12KVU84J39TNTU,0MH12KVU84J39TNTU,608.0,1.0,true
+vin~0RAFZK2L5Z2RK635Y%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0RAFZK2L5Z2RK635Y,0RAFZK2L5Z2RK635Y,675.0,1.0,true
+vin~0RAFZK2L5Z2RK635Y%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0RAFZK2L5Z2RK635Y,P0RAFZK2L5Z2RK635,578.0,0.0,true
+vin~0RAFZK2L5Z2RK635Y%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0RAFZK2L5Z2RK635Y,0RAFZK2L5Z2RK635Y,659.0,1.0,true
+vin~0TV6YXKN29XLH1S1W%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0TV6YXKN29XLH1S1W,0TV6YXKN29XLH1S1W,641.0,1.0,true
+vin~0TV6YXKN29XLH1S1W%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0TV6YXKN29XLH1S1W,0TV6YXKN29XLH1S1W,530.0,1.0,true
+vin~0TV6YXKN29XLH1S1W%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0TV6YXKN29XLH1S1W,0TV6YXKN295LH1S1W,766.0,0.0,true
+vin~0V7U1EBVYE6C5S0HA%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0V7U1EBVYE6C5S0HA,0V7U1EBVYE6E580HA,522.0,0.0,true
+vin~0V7U1EBVYE6C5S0HA%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0V7U1EBVYE6C5S0HA,9Y7U1EBVYE6C580HA,529.0,0.0,true
+vin~0V7U1EBVYE6C5S0HA%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0V7U1EBVYE6C5S0HA,0V7U1EBVYE2C5S0HA,540.0,0.0,true
+vin~0XR3TEM3TPSFXS1RF%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,0XR3TEM3TPSFXS1RF,0XR3TEM3TPSFXS1RF,598.0,1.0,true
+vin~0XR3TEM3TPSFXS1RF%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0XR3TEM3TPSFXS1RF,0XR3TEM3TPSFXS1RF,662.0,1.0,true
+vin~0XR3TEM3TPSFXS1RF%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,0XR3TEM3TPSFXS1RF,0XR3TEM3TPSLXS1RF,620.0,0.0,true
+vin~0YWDYCHE10M8LCASE%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,923.0,93.0,0YWDYCHE10M8LCASE,0YWDYCHE10M8LCASE,642.0,1.0,true
+vin~0YWDYCHE10M8LCASE%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0YWDYCHE10M8LCASE,GYWDYCHE10M8LCASE,682.0,0.0,true
+vin~0YWDYCHE10M8LCASE%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,930.0,92.0,0YWDYCHE10M8LCASE,UYVVDYCHE19M8LCAS,571.0,0.0,true
+vin~0ZEZCAM4ZM4SPBWC5%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,924.0,93.0,0ZEZCAM4ZM4SPBWC5,0ZEZCAM4ZM4SPBWC5,656.0,1.0,true
+vin~0ZEZCAM4ZM4SPBWC5%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,0ZEZCAM4ZM4SPBWC5,0ZEZCAM4ZM4SPBWCB,618.0,0.0,true
+vin~0ZEZCAM4ZM4SPBWC5%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,922.0,92.0,0ZEZCAM4ZM4SPBWC5,0ZEZCAM4ZM4SPBWC5,677.0,1.0,true
+vin~1CV8BAJJCCPVF7P1W%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1CV8BAJJCCPVF7P1W,1CV8BAJJCCPVF7P1W,576.0,1.0,true
+vin~1CV8BAJJCCPVF7P1W%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1CV8BAJJCCPVF7P1W,P1CV8BAJJCCPVF7P1,561.0,0.0,true
+vin~1CV8BAJJCCPVF7P1W%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1CV8BAJJCCPVF7P1W,1CV8BAJJEZTPVF7P1,582.0,0.0,true
+vin~1LS8E151VJCT9C5JK%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1LS8E151VJCT9C5JK,1LS8E151VJCT9C5JK,658.0,1.0,true
+vin~1LS8E151VJCT9C5JK%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1LS8E151VJCT9C5JK,1LS8E151VJCT9C5JK,560.0,1.0,true
+vin~1LS8E151VJCT9C5JK%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1LS8E151VJCT9C5JK,1LS8E15HZJCLT9C5J,624.0,0.0,true
+vin~1LSX2WM3NFGEL5888%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1LSX2WM3NFGEL5888,1LSX2WM3NFGEL5888,812.0,1.0,true
+vin~1LSX2WM3NFGEL5888%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1LSX2WM3NFGEL5888,1LSX2WM3NFGEL5888,559.0,1.0,true
+vin~1LSX2WM3NFGEL5888%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1LSX2WM3NFGEL5888,1LSX2VVRL3NFGEL58,635.0,0.0,true
+vin~1M4JZPUT1YR4RLH83%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1M4JZPUT1YR4RLH83,1M4JZPUT1YR4RLH83,502.0,1.0,true
+vin~1M4JZPUT1YR4RLH83%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1M4JZPUT1YR4RLH83,1M4JZPUT1YR4RLH83,500.0,1.0,true
+vin~1M4JZPUT1YR4RLH83%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1M4JZPUT1YR4RLH83,1M4JZPUT1YR4RLH83,464.0,1.0,true
+vin~1T37UC4UW0T9L6LD1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1T37UC4UW0T9L6LD1,1T37UC4UWCLT9L6LD,518.0,0.0,true
+vin~1T37UC4UW0T9L6LD1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1T37UC4UW0T9L6LD1,1T37UC4UW0T9L6LD1,617.0,1.0,true
+vin~1T37UC4UW0T9L6LD1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1T37UC4UW0T9L6LD1,1T37UC4UW0T9L6LD1,633.0,1.0,true
+vin~1WEJ69G7GXJAVNB0F%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1WEJ69G7GXJAVNB0F,1WEJ69G7GXJAVNB0F,627.0,1.0,true
+vin~1WEJ69G7GXJAVNB0F%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1WEJ69G7GXJAVNB0F,P1WEJ69G7GXJAVNB0,649.0,0.0,true
+vin~1WEJ69G7GXJAVNB0F%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1WEJ69G7GXJAVNB0F,HVEJ69G7GXJAVNB0F,650.0,0.0,true
+vin~1XBHETETSMLMTMN6W%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,948.0,93.0,1XBHETETSMLMTMN6W,1XBHETETSMLMTMN6W,542.0,1.0,true
+vin~1XBHETETSMLMTMN6W%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1XBHETETSMLMTMN6W,1XBHETETSMTLMTW6W,715.0,0.0,true
+vin~1XBHETETSMLMTMN6W%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,983.0,92.0,1XBHETETSMLMTMN6W,1XBHETETSMLMTMNCJ,626.0,0.0,true
+vin~1YL6FT9Z7A30EBUTJ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1YL6FT9Z7A30EBUTJ,1YL6FT9Z7A30EBUTJ,542.0,1.0,true
+vin~1YL6FT9Z7A30EBUTJ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1YL6FT9Z7A30EBUTJ,1YL6FT9Z7A30EBUTJ,529.0,1.0,true
+vin~1YL6FT9Z7A30EBUTJ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1YL6FT9Z7A30EBUTJ,1YL6FT9Z7A30EBUTJ,481.0,1.0,true
+vin~1YXX0LLH4FD8CC9AN%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,1YXX0LLH4FD8CC9AN,1YXX0LLH4FEL8009A,552.0,0.0,true
+vin~1YXX0LLH4FD8CC9AN%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,1YXX0LLH4FD8CC9AN,P1YXX0LLH4FD8CC9A,585.0,0.0,true
+vin~1YXX0LLH4FD8CC9AN%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,1YXX0LLH4FD8CC9AN,1YXX0LLH4ED8CC9AN,594.0,0.0,true
+vin~2DVDUK3RDH0ETPHGM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,936.0,93.0,2DVDUK3RDH0ETPHGM,2DVDUK3RDH0ETPHGM,717.0,1.0,true
+vin~2DVDUK3RDH0ETPHGM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,2DVDUK3RDH0ETPHGM,2DVDUKBRDHGETPHGM,1217.0,0.0,true
+vin~2DVDUK3RDH0ETPHGM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,946.0,92.0,2DVDUK3RDH0ETPHGM,2DVDUK3RDH0ETPHGM,695.0,1.0,true
+vin~2KY3YG82WC27P7XGH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,2KY3YG82WC27P7XGH,2KY3YGE2WC27P7XGH,645.0,0.0,true
+vin~2KY3YG82WC27P7XGH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,2KY3YG82WC27P7XGH,P2KY3YG82WC27P7XG,583.0,0.0,true
+vin~2KY3YG82WC27P7XGH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,2KY3YG82WC27P7XGH,2KY3YG827VVCZ7P7X,622.0,0.0,true
+vin~2NR41T0S36KB69JWX%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,2NR41T0S36KB69JWX,2NR41T0536KE69JWX,520.0,0.0,true
+vin~2NR41T0S36KB69JWX%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,2NR41T0S36KB69JWX,2NR41T0836KB69JWX,589.0,0.0,true
+vin~2NR41T0S36KB69JWX%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,2NR41T0S36KB69JWX,21R41T0S36KB69JHX,588.0,0.0,true
+vin~2VVLWAKUBH7Y731S1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,2VVLWAKUBH7Y731S1,2VVLWA5UBH7Y731S1,665.0,0.0,true
+vin~2VVLWAKUBH7Y731S1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,2VVLWAKUBH7Y731S1,2VVLWAKUBH7Y731S1,495.0,1.0,true
+vin~2VVLWAKUBH7Y731S1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,2VVLWAKUBH7Y731S1,2VVLVVAJSUBH7Y731,685.0,0.0,true
+vin~2ZVLSUAZLNKL4GJX1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,2ZVLSUAZLNKL4GJX1,2ZVLSUAZLNKL4GJX1,569.0,1.0,true
+vin~2ZVLSUAZLNKL4GJX1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,2ZVLSUAZLNKL4GJX1,2ZVLSUAZLNKL4GJX1,501.0,1.0,true
+vin~2ZVLSUAZLNKL4GJX1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,2ZVLSUAZLNKL4GJX1,VZZVLSMZUNJAEGJX1,608.0,0.0,true
+vin~328BVGUXN27196EZY%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,328BVGUXN27196EZY,328BVGUXN27196EZY,548.0,1.0,true
+vin~328BVGUXN27196EZY%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,328BVGUXN27196EZY,P328BVGUXN27196EZ,588.0,0.0,true
+vin~328BVGUXN27196EZY%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,328BVGUXN27196EZY,328BVGUXN27196EZY,528.0,1.0,true
+vin~3640DRT8ZJAR2TK18%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3640DRT8ZJAR2TK18,3640DRT8ZJAR2TK18,542.0,1.0,true
+vin~3640DRT8ZJAR2TK18%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3640DRT8ZJAR2TK18,3640DRT8ZJAR2TK18,583.0,1.0,true
+vin~3640DRT8ZJAR2TK18%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3640DRT8ZJAR2TK18,3640DRT8ZJAR2TK18,646.0,1.0,true
+vin~376P6YXJ5LRZZ6YF3%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,376P6YXJ5LRZZ6YF3,376P6X5J5LRZZ6YF3,462.0,0.0,true
+vin~376P6YXJ5LRZZ6YF3%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,376P6YXJ5LRZZ6YF3,376P6YXJ5LRZZ6YF3,514.0,1.0,true
+vin~376P6YXJ5LRZZ6YF3%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,376P6YXJ5LRZZ6YF3,ZZ6P6YXJ5LRZZ6YF3,622.0,0.0,true
+vin~3DRLAGM8KB94DEL4Y%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,903.0,93.0,3DRLAGM8KB94DEL4Y,3DRLAGM8KB94DEL4Y,591.0,1.0,true
+vin~3DRLAGM8KB94DEL4Y%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3DRLAGM8KB94DEL4Y,3DRLAGM8KB94DEL4Y,498.0,1.0,true
+vin~3DRLAGM8KB94DEL4Y%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,903.0,92.0,3DRLAGM8KB94DEL4Y,1DRLAAGRF8KBCJ4DE,587.0,0.0,true
+vin~3EP5CP0YCTKX2CXYR%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3EP5CP0YCTKX2CXYR,3EP5CP0YCTP962CXY,680.0,0.0,true
+vin~3EP5CP0YCTKX2CXYR%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3EP5CP0YCTKX2CXYR,3EP5CP0YCTKX2CXYR,653.0,1.0,true
+vin~3EP5CP0YCTKX2CXYR%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3EP5CP0YCTKX2CXYR,3EP5CP0YCTH92CXYR,554.0,0.0,true
+vin~3JEUF7Y0UHCBF6A8E%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3JEUF7Y0UHCBF6A8E,3JEUF7Y0UHCBF6A8E,593.0,1.0,true
+vin~3JEUF7Y0UHCBF6A8E%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3JEUF7Y0UHCBF6A8E,3JEUF7Y0UHCBF6A8E,505.0,1.0,true
+vin~3JEUF7Y0UHCBF6A8E%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3JEUF7Y0UHCBF6A8E,3JEUF7WUHPBF6A8E1,533.0,0.0,true
+vin~3KT4ULZHPZER6UJZ1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3KT4ULZHPZER6UJZ1,3KT4ULEHPZER6UJZ1,466.0,0.0,true
+vin~3KT4ULZHPZER6UJZ1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3KT4ULZHPZER6UJZ1,23KT4ULZHPZER6UJZ,962.0,0.0,true
+vin~3KT4ULZHPZER6UJZ1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3KT4ULZHPZER6UJZ1,3KT4ULZHPZER6UJZ1,460.0,1.0,true
+vin~3ME4F168X0GTA05U0%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3ME4F168X0GTA05U0,3ME4F168X0G1A05U0,463.0,0.0,true
+vin~3ME4F168X0GTA05U0%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3ME4F168X0GTA05U0,3ME4F168X0GTA05U0,600.0,1.0,true
+vin~3ME4F168X0GTA05U0%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3ME4F168X0GTA05U0,3ME4F168X0GTA05UD,519.0,0.0,true
+vin~3P20LULB8T4KJ6T81%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3P20LULB8T4KJ6T81,3P20LULB8T4KJ6T81,488.0,1.0,true
+vin~3P20LULB8T4KJ6T81%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3P20LULB8T4KJ6T81,P3P20LULB8T4KJ6T8,522.0,0.0,true
+vin~3P20LULB8T4KJ6T81%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3P20LULB8T4KJ6T81,3P20LULB8T4ELJ6T8,576.0,0.0,true
+vin~3RFJSK6FDBBFLCU8N%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3RFJSK6FDBBFLCU8N,3RFJSK6FDBBFLCU8N,477.0,1.0,true
+vin~3RFJSK6FDBBFLCU8N%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3RFJSK6FDBBFLCU8N,3RFJSK6FDBBFLCU8N,478.0,1.0,true
+vin~3RFJSK6FDBBFLCU8N%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3RFJSK6FDBBFLCU8N,3RFJSK6FDBBFLCU8N,506.0,1.0,true
+vin~3X91BE7TPM20FH3WA%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3X91BE7TPM20FH3WA,3X91BE7TPM20FH3WA,591.0,1.0,true
+vin~3X91BE7TPM20FH3WA%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3X91BE7TPM20FH3WA,P3X91BE7TPM20FH3W,519.0,0.0,true
+vin~3X91BE7TPM20FH3WA%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3X91BE7TPM20FH3WA,3X91BE7TPMZGFH3WA,496.0,0.0,true
+vin~3Z2SCXVZ244APW9N1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,3Z2SCXVZ244APW9N1,3Z2SCXVZ244APW9N1,439.0,1.0,true
+vin~3Z2SCXVZ244APW9N1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,3Z2SCXVZ244APW9N1,3Z2SCXVZ244APW9N1,529.0,1.0,true
+vin~3Z2SCXVZ244APW9N1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,3Z2SCXVZ244APW9N1,3Z2SCXVZ244APW9N1,453.0,1.0,true
+vin~400AM32VSRN2Z48D4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,400AM32VSRN2Z48D4,400AM33VSRN2Z48D4,517.0,0.0,true
+vin~400AM32VSRN2Z48D4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,400AM32VSRN2Z48D4,590AM32VSRN2Z48D4,498.0,0.0,true
+vin~400AM32VSRN2Z48D4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,400AM32VSRN2Z48D4,400AM3217SRN2Z48D,479.0,0.0,true
+vin~4050AZ0E44VLA8JW8%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,4050AZ0E44VLA8JW8,4050AZDE44VLA8JW8,496.0,0.0,true
+vin~4050AZ0E44VLA8JW8%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4050AZ0E44VLA8JW8,4050AZGE44VLA8JW8,474.0,0.0,true
+vin~4050AZ0E44VLA8JW8%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,4050AZ0E44VLA8JW8,4050AZ0E44VLA8JVV,491.0,0.0,true
+vin~41SL6DKT9MHHLC6FB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,41SL6DKT9MHHLC6FB,41SL6E6T9MHHLC6FB,470.0,0.0,true
+vin~41SL6DKT9MHHLC6FB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,41SL6DKT9MHHLC6FB,41SL6DKT9MHHLC6FB,564.0,1.0,true
+vin~41SL6DKT9MHHLC6FB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,41SL6DKT9MHHLC6FB,41SL6DKJW9MHHLC6F,534.0,0.0,true
+vin~42H0E42XN9FU7ML0U%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,42H0E42XN9FU7ML0U,42H0E4EXN9FU7ML0U,565.0,0.0,true
+vin~42H0E42XN9FU7ML0U%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,42H0E42XN9FU7ML0U,P42H0E42XN9FU7ML0,537.0,0.0,true
+vin~42H0E42XN9FU7ML0U%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,42H0E42XN9FU7ML0U,42H0E42XN9FU7ML0U,511.0,1.0,true
+vin~4ACKU5FUJM1ZG5WGF%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,925.0,93.0,4ACKU5FUJM1ZG5WGF,4ACKU5FUJWHZG5WGF,588.0,0.0,true
+vin~4ACKU5FUJM1ZG5WGF%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4ACKU5FUJM1ZG5WGF,4ACKU5FUJM1ZGBWGF,648.0,0.0,true
+vin~4ACKU5FUJM1ZG5WGF%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,922.0,92.0,4ACKU5FUJM1ZG5WGF,4ACKU5F11JM1ZG5VV,506.0,0.0,true
+vin~4DG21S5DDLW6WS4TB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,918.0,93.0,4DG21S5DDLW6WS4TB,4DG21S5DDLW6WS4TB,536.0,1.0,true
+vin~4DG21S5DDLW6WS4TB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4DG21S5DDLW6WS4TB,4DG21SBDDLW6WS4TB,502.0,0.0,true
+vin~4DG21S5DDLW6WS4TB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,4DG21S5DDLW6WS4TB,4DGZ1S5DDLVV6VVS4,527.0,0.0,true
+vin~4N0EE5GR7NDNL42E2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,4N0EE5GR7NDNL42E2,4N0EE5GR7NDNL42E2,489.0,1.0,true
+vin~4N0EE5GR7NDNL42E2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4N0EE5GR7NDNL42E2,4N0EE5GR7NDNL42E2,507.0,1.0,true
+vin~4N0EE5GR7NDNL42E2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,4N0EE5GR7NDNL42E2,4N0EE5GR7NDNL42E2,697.0,1.0,true
+vin~4SY7BA5XZ2F9ETSPU%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,4SY7BA5XZ2F9ETSPU,4SY7BA5XZ2F9ETSPU,517.0,1.0,true
+vin~4SY7BA5XZ2F9ETSPU%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4SY7BA5XZ2F9ETSPU,4SY7BA5XZ2F9ETSPU,477.0,1.0,true
+vin~4SY7BA5XZ2F9ETSPU%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,4SY7BA5XZ2F9ETSPU,4SY7BA5X7Z2F9ETSP,519.0,0.0,true
+vin~4U7JWXD1XAA8Z3VEZ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,4U7JWXD1XAA8Z3VEZ,4U7JWXD1XAA8Z3VEZ,532.0,1.0,true
+vin~4U7JWXD1XAA8Z3VEZ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4U7JWXD1XAA8Z3VEZ,4U7JWXD1XAA8Z3VEZ,499.0,1.0,true
+vin~4U7JWXD1XAA8Z3VEZ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,4U7JWXD1XAA8Z3VEZ,4U7JVVLD1XAA8Z3VE,514.0,0.0,true
+vin~4WZUXE76FGBRXJXFR%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,908.0,93.0,4WZUXE76FGBRXJXFR,4WZUXE76FGBRXJXFR,462.0,1.0,true
+vin~4WZUXE76FGBRXJXFR%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4WZUXE76FGBRXJXFR,4WZUXE76FGBRXJXFR,521.0,1.0,true
+vin~4WZUXE76FGBRXJXFR%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,905.0,92.0,4WZUXE76FGBRXJXFR,4VVZUXE776FGBRXJX,545.0,0.0,true
+vin~4Y9SWVYGWBTRMHXUH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,973.0,93.0,4Y9SWVYGWBTRMHXUH,4Y9SWVYGWBTRMHXUH,551.0,1.0,true
+vin~4Y9SWVYGWBTRMHXUH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,4Y9SWVYGWBTRMHXUH,4Y9SWVYGWBTRMHXUH,481.0,1.0,true
+vin~4Y9SWVYGWBTRMHXUH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,1002.0,92.0,4Y9SWVYGWBTRMHXUH,4Y98VVVLGVVBTRMHX,654.0,0.0,true
+vin~509G693KECJ5WA6XA%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,509G693KECJ5WA6XA,509G693KECJ5WA6XA,588.0,1.0,true
+vin~509G693KECJ5WA6XA%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,509G693KECJ5WA6XA,509G693KECJ5WA6XA,493.0,1.0,true
+vin~509G693KECJ5WA6XA%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,509G693KECJ5WA6XA,5090693KECJSMMJXA,526.0,0.0,true
+vin~5AHVVR420F64LL4S4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5AHVVR420F64LL4S4,5AHVVR420F64LL4S4,491.0,1.0,true
+vin~5AHVVR420F64LL4S4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5AHVVR420F64LL4S4,5AHVVR420F64LL4S4,550.0,1.0,true
+vin~5AHVVR420F64LL4S4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5AHVVR420F64LL4S4,5AHVVR420F64LL4S4,485.0,1.0,true
+vin~5DYD9TL9P3K8FTNMH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5DYD9TL9P3K8FTNMH,5DYD9TL9P3K8FTNMH,487.0,1.0,true
+vin~5DYD9TL9P3K8FTNMH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5DYD9TL9P3K8FTNMH,5DYD9TL9P3K8FTNMH,580.0,1.0,true
+vin~5DYD9TL9P3K8FTNMH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5DYD9TL9P3K8FTNMH,5DYD9TL9P3K8FTNMH,498.0,1.0,true
+vin~5FDF5HK2B959F29BS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5FDF5HK2B959F29BS,5FDF5HK2B959F29BZ,450.0,0.0,true
+vin~5FDF5HK2B959F29BS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5FDF5HK2B959F29BS,5FDF5HK2B959F29BS,557.0,1.0,true
+vin~5FDF5HK2B959F29BS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5FDF5HK2B959F29BS,5FDF5HKZB93L9F298,544.0,0.0,true
+vin~5GYX1JBADB80N5F0V%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5GYX1JBADB80N5F0V,5GYX1JBADB80N5F0V,522.0,1.0,true
+vin~5GYX1JBADB80N5F0V%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5GYX1JBADB80N5F0V,P5GYX1JBADB80N5F0,598.0,0.0,true
+vin~5GYX1JBADB80N5F0V%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5GYX1JBADB80N5F0V,5GYXLJBALDB80N5F0,559.0,0.0,true
+vin~5HNNLZ32X31DSK9LC%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5HNNLZ32X31DSK9LC,5HNNLZ32X31DSK9LC,471.0,1.0,true
+vin~5HNNLZ32X31DSK9LC%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5HNNLZ32X31DSK9LC,P5HNNLZ32X31DSK9L,678.0,0.0,true
+vin~5HNNLZ32X31DSK9LC%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5HNNLZ32X31DSK9LC,5HNNLZ32X3HBSKCJL,500.0,0.0,true
+vin~5J32MKJG3PJ07D3RX%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5J32MKJG3PJ07D3RX,5J32MKJG3PJ07D3RX,402.0,1.0,true
+vin~5J32MKJG3PJ07D3RX%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5J32MKJG3PJ07D3RX,5J32MKJG3PJ07D3RX,411.0,1.0,true
+vin~5J32MKJG3PJ07D3RX%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5J32MKJG3PJ07D3RX,5J32MKJG3PJ07D3RX,428.0,1.0,true
+vin~5JP1SW2VXHNUJ2YP0%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5JP1SW2VXHNUJ2YP0,5JP1SW2VXHBUJ2YP0,643.0,0.0,true
+vin~5JP1SW2VXHNUJ2YP0%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5JP1SW2VXHNUJ2YP0,5JP1SW2VXHNUJ2YP0,470.0,1.0,true
+vin~5JP1SW2VXHNUJ2YP0%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5JP1SW2VXHNUJ2YP0,5JP1SVVZVXHHUJZYP,519.0,0.0,true
+vin~5KV19CK7C25DT6L4J%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5KV19CK7C25DT6L4J,5KV196167C25DT6L4,473.0,0.0,true
+vin~5KV19CK7C25DT6L4J%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5KV19CK7C25DT6L4J,5KV19CK7C25DT6L4J,488.0,1.0,true
+vin~5KV19CK7C25DT6L4J%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5KV19CK7C25DT6L4J,5KH9CK7CZ5D6T6L4J,544.0,0.0,true
+vin~5MGZFNEDZRKPDDA53%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,920.0,93.0,5MGZFNEDZRKPDDA53,5MGZFNEDZRKPDDA53,534.0,1.0,true
+vin~5MGZFNEDZRKPDDA53%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5MGZFNEDZRKPDDA53,5MGZFNEDZRKPDDAB3,563.0,0.0,true
+vin~5MGZFNEDZRKPDDA53%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,921.0,92.0,5MGZFNEDZRKPDDA53,5MGZFNEDZBKPDDA53,622.0,0.0,true
+vin~5PLKZGBN6BT78SPCU%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,5PLKZGBN6BT78SPCU,5PLKZGBN6BT78SPCU,517.0,1.0,true
+vin~5PLKZGBN6BT78SPCU%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5PLKZGBN6BT78SPCU,5PLKZGBN6BT78SPCU,500.0,1.0,true
+vin~5PLKZGBN6BT78SPCU%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,5PLKZGBN6BT78SPCU,5PLKZGBN6BT78SPCU,530.0,1.0,true
+vin~5RW6WR08UTMF7XGPA%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,937.0,93.0,5RW6WR08UTMF7XGPA,5RW6WR08ULMF7XGPA,560.0,0.0,true
+vin~5RW6WR08UTMF7XGPA%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,5RW6WR08UTMF7XGPA,5RW6WR08UTMF7XGPA,481.0,1.0,true
+vin~5RW6WR08UTMF7XGPA%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,937.0,92.0,5RW6WR08UTMF7XGPA,5RVV6VVR08UTMF7XG,412.0,0.0,true
+vin~62MN0WL6J7PGCD8DS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,906.0,93.0,62MN0WL6J7PGCD8DS,62MN0WEGJ7PGCD8DS,484.0,0.0,true
+vin~62MN0WL6J7PGCD8DS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,62MN0WL6J7PGCD8DS,62MN0WL6J7PGCD8DS,507.0,1.0,true
+vin~62MN0WL6J7PGCD8DS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,62MN0WL6J7PGCD8DS,62MN0VVL76J7PGCD8,511.0,0.0,true
+vin~65AYKBHHBF7H8U9YH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,65AYKBHHBF7H8U9YH,65AYKBHHBFZH8U9YH,495.0,0.0,true
+vin~65AYKBHHBF7H8U9YH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,65AYKBHHBF7H8U9YH,65AYKBHHBF7H8U9YH,492.0,1.0,true
+vin~65AYKBHHBF7H8U9YH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,65AYKBHHBF7H8U9YH,65AYKBHHBF118U9YH,536.0,0.0,true
+vin~69MNNV88VA4027VUK%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,69MNNV88VA4027VUK,69MNNV88VA3027VUK,499.0,0.0,true
+vin~69MNNV88VA4027VUK%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,69MNNV88VA4027VUK,69MNNV88VA4027VUK,510.0,1.0,true
+vin~69MNNV88VA4027VUK%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,69MNNV88VA4027VUK,69MNNV88VA4027YUK,544.0,0.0,true
+vin~6CXH24FPLVTRDLVE8%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,6CXH24FPLVTRDLVE8,6CXH24FPLVTRDLVE8,477.0,1.0,true
+vin~6CXH24FPLVTRDLVE8%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,6CXH24FPLVTRDLVE8,6CXH24FPLVTRDLVE8,481.0,1.0,true
+vin~6CXH24FPLVTRDLVE8%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,6CXH24FPLVTRDLVE8,6CXH247FPLVTRDLVE,514.0,0.0,true
+vin~6L6AYNY51MTPH504B%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,6L6AYNY51MTPH504B,6L6AYNL51MTPH504B,461.0,0.0,true
+vin~6L6AYNY51MTPH504B%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,6L6AYNY51MTPH504B,C6L6AYNY51MTPH504,499.0,0.0,true
+vin~6L6AYNY51MTPH504B%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,6L6AYNY51MTPH504B,6L6AHLY51MTPH504B,895.0,0.0,true
+vin~6TWBU8911XM3MALSV%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,907.0,93.0,6TWBU8911XM3MALSV,6TWBU8911XFE3MALS,501.0,0.0,true
+vin~6TWBU8911XM3MALSV%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,6TWBU8911XM3MALSV,6TWBU8911XMBMALSV,493.0,0.0,true
+vin~6TWBU8911XM3MALSV%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,909.0,92.0,6TWBU8911XM3MALSV,6TVVBU8911XLH3MAL,476.0,0.0,true
+vin~7G9DVXDY27CW8NT11%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,7G9DVXDY27CW8NT11,7G9DVXDY27CW8NT11,450.0,1.0,true
+vin~7G9DVXDY27CW8NT11%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,7G9DVXDY27CW8NT11,7G9DVXDY27CW8NT1E,554.0,0.0,true
+vin~7G9DVXDY27CW8NT11%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,7G9DVXDY27CW8NT11,7G9DVXDY27CW8NT11,465.0,1.0,true
+vin~7L2BJ6ZR6UMKFNY5X%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,7L2BJ6ZR6UMKFNY5X,7L2BJ6ZR6UMKFNY5X,459.0,1.0,true
+vin~7L2BJ6ZR6UMKFNY5X%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,7L2BJ6ZR6UMKFNY5X,7L2BJ6ZR6UMKFNY5X,526.0,1.0,true
+vin~7L2BJ6ZR6UMKFNY5X%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,7L2BJ6ZR6UMKFNY5X,7LZBJ6Z7R6UMKFNY5,510.0,0.0,true
+vin~7LFRD1DVV9S6GH9T3%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,7LFRD1DVV9S6GH9T3,7LFREEDVV9S6GH9T3,538.0,0.0,true
+vin~7LFRD1DVV9S6GH9T3%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,7LFRD1DVV9S6GH9T3,7LFRD1DVV9S6GH9T3,478.0,1.0,true
+vin~7LFRD1DVV9S6GH9T3%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,7LFRD1DVV9S6GH9T3,7LFRD1DVV98670H9T,528.0,0.0,true
+vin~7NAF85F485JERTDAG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,7NAF85F485JERTDAG,7NAF85F485JERTDAE,464.0,0.0,true
+vin~7NAF85F485JERTDAG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,7NAF85F485JERTDAG,7NAF85F485JERTDAG,468.0,1.0,true
+vin~7NAF85F485JERTDAG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,7NAF85F485JERTDAG,7NAF85F485JERTDAG,518.0,1.0,true
+vin~7R7MSWK9YF9XGJ5H2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,901.0,93.0,7R7MSWK9YF9XGJ5H2,7R7MSWK9YE9XGJ5H2,462.0,0.0,true
+vin~7R7MSWK9YF9XGJ5H2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,7R7MSWK9YF9XGJ5H2,7R7MSWK9YF9XGJ5H2,476.0,1.0,true
+vin~7R7MSWK9YF9XGJ5H2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,7R7MSWK9YF9XGJ5H2,7R7MSVVK9YF9XGJ5H,494.0,0.0,true
+vin~7ZFAMVDWW2PBL9X6H%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,932.0,93.0,7ZFAMVDWW2PBL9X6H,7ZFAMVDWW2PBL9X6H,510.0,1.0,true
+vin~7ZFAMVDWW2PBL9X6H%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,7ZFAMVDWW2PBL9X6H,7ZFAMVDWW2PBL9X6H,532.0,1.0,true
+vin~7ZFAMVDWW2PBL9X6H%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,945.0,92.0,7ZFAMVDWW2PBL9X6H,7ZFAMVDVVVVZPBUJX,483.0,0.0,true
+vin~80SCH45G8HVLZ4KNY%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,80SCH45G8HVLZ4KNY,808CH45G8HVLZ4KNY,483.0,0.0,true
+vin~80SCH45G8HVLZ4KNY%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,80SCH45G8HVLZ4KNY,808CH45G8HVLZ4KNY,522.0,0.0,true
+vin~80SCH45G8HVLZ4KNY%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,80SCH45G8HVLZ4KNY,808CH45G8HVLZ4KNY,489.0,0.0,true
+vin~81S72ZSWSX3ZEB2KV%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,81S72ZSWSX3ZEB2KV,81S72ZSWSX3ZEB2KV,559.0,1.0,true
+vin~81S72ZSWSX3ZEB2KV%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,81S72ZSWSX3ZEB2KV,81872ZSWSXBZEB2KV,635.0,0.0,true
+vin~81S72ZSWSX3ZEB2KV%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,81S72ZSWSX3ZEB2KV,81S72ZSVVSX37ZEBZ,480.0,0.0,true
+vin~84JS00JTAMAW2MA4L%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,84JS00JTAMAW2MA4L,84J500JTAMAE2MA4L,494.0,0.0,true
+vin~84JS00JTAMAW2MA4L%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,84JS00JTAMAW2MA4L,84JS00JTAMAW2MA4L,478.0,1.0,true
+vin~84JS00JTAMAW2MA4L%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,84JS00JTAMAW2MA4L,84JS00JHMSMJZMML1,528.0,0.0,true
+vin~882FXLGE1GEBXT8L2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,882FXLGE1GEBXT8L2,882FXLGE1GEBXT8L2,478.0,1.0,true
+vin~882FXLGE1GEBXT8L2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,882FXLGE1GEBXT8L2,882FXLGE1GEBXT8L2,473.0,1.0,true
+vin~882FXLGE1GEBXT8L2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,882FXLGE1GEBXT8L2,882FXLGE1GEBXT8L2,537.0,1.0,true
+vin~8B2Y39Z3X4BYPUJ4R%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,8B2Y39Z3X4BYPUJ4R,8B2Y39Z3X4BYPUJ4R,455.0,1.0,true
+vin~8B2Y39Z3X4BYPUJ4R%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8B2Y39Z3X4BYPUJ4R,8B2Y39Z3X4BYPUJ4R,477.0,1.0,true
+vin~8B2Y39Z3X4BYPUJ4R%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,8B2Y39Z3X4BYPUJ4R,8BZY39Z3X4BYPUJ4R,525.0,0.0,true
+vin~8CGURVNV38398G57Y%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,8CGURVNV38398G57Y,8CGURVNV38398G57Y,456.0,1.0,true
+vin~8CGURVNV38398G57Y%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8CGURVNV38398G57Y,8CGURVNV38398G57Y,445.0,1.0,true
+vin~8CGURVNV38398G57Y%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,8CGURVNV38398G57Y,8CGURVNV38398G57Y,568.0,1.0,true
+vin~8DBJ2A7N5ST2B3G45%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,8DBJ2A7N5ST2B3G45,8DBJ2A7N5ST2B3G45,668.0,1.0,true
+vin~8DBJ2A7N5ST2B3G45%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8DBJ2A7N5ST2B3G45,8DBJ2A7NBST2B3G45,563.0,0.0,true
+vin~8DBJ2A7N5ST2B3G45%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,8DBJ2A7N5ST2B3G45,8DBJZA7H5STZB3G45,472.0,0.0,true
+vin~8H50J4ES7ASSG3WP1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,8H50J4ES7ASSG3WP1,8H50J4ES7ASECE3WP,541.0,0.0,true
+vin~8H50J4ES7ASSG3WP1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8H50J4ES7ASSG3WP1,P8HBGJ4ES7ASSG3WP,463.0,0.0,true
+vin~8H50J4ES7ASSG3WP1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,8H50J4ES7ASSG3WP1,8H50J4ES77ASSG3VV,473.0,0.0,true
+vin~8HRJC2TCT4S7A7SDR%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,8HRJC2TCT4S7A7SDR,8HRJC2TCT4S7A7SDE,552.0,0.0,true
+vin~8HRJC2TCT4S7A7SDR%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8HRJC2TCT4S7A7SDR,P8HRJC2TCT4S7A7SD,673.0,0.0,true
+vin~8HRJC2TCT4S7A7SDR%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,8HRJC2TCT4S7A7SDR,8HRGJC121C1T4S7A7,478.0,0.0,true
+vin~8NHKCSEUGE7XBZF6Y%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,908.0,93.0,8NHKCSEUGE7XBZF6Y,8NHKCSEUGE7XBZF6Y,446.0,1.0,true
+vin~8NHKCSEUGE7XBZF6Y%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8NHKCSEUGE7XBZF6Y,P8NHKCSEUGE7XBZF6,520.0,0.0,true
+vin~8NHKCSEUGE7XBZF6Y%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,901.0,92.0,8NHKCSEUGE7XBZF6Y,8NHKCSEUGE7XBZF6A,619.0,0.0,true
+vin~8R3167F8XB64FFZ3R%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,8R3167F8XB64FFZ3R,8R3167F8XB64FFZ3R,485.0,1.0,true
+vin~8R3167F8XB64FFZ3R%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8R3167F8XB64FFZ3R,8R3167F8XB64FFZBR,573.0,0.0,true
+vin~8R3167F8XB64FFZ3R%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,8R3167F8XB64FFZ3R,8R3167F8XBCL4FFZ3,447.0,0.0,true
+vin~8STEP1ZAVWMWLNGWX%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,969.0,93.0,8STEP1ZAVWMWLNGWX,8STEP1ZAVW1V1WLNG,511.0,0.0,true
+vin~8STEP1ZAVWMWLNGWX%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,8STEP1ZAVWMWLNGWX,8STEP1ZAVWMWLNGWX,553.0,1.0,true
+vin~8STEP1ZAVWMWLNGWX%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,994.0,92.0,8STEP1ZAVWMWLNGWX,8STEP1ZAVVVMELNGV,532.0,0.0,true
+vin~9A3NBBCVMB13XKNLT%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,912.0,93.0,9A3NBBCVMB13XKNLT,9A3NBBCVMB13XKNLT,545.0,1.0,true
+vin~9A3NBBCVMB13XKNLT%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,9A3NBBCVMB13XKNLT,9A3NBBCV1VEB1BXKN,491.0,0.0,true
+vin~9A3NBBCVMB13XKNLT%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,914.0,92.0,9A3NBBCVMB13XKNLT,9A3NBBCXLMB13XKNL,513.0,0.0,true
+vin~9CXTEVT82N9ZKXR0H%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,9CXTEVT82N9ZKXR0H,9CXTEVT82N9ZKXR0H,489.0,1.0,true
+vin~9CXTEVT82N9ZKXR0H%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,9CXTEVT82N9ZKXR0H,9CXTEVT82N9ZKXR0H,477.0,1.0,true
+vin~9CXTEVT82N9ZKXR0H%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,9CXTEVT82N9ZKXR0H,9CXTEVT82N97ZKXR0,573.0,0.0,true
+vin~9F9W1UUE20FAF2CHU%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,9F9W1UUE20FAF2CHU,9F9W1UUE20FAFZCHE,616.0,0.0,true
+vin~9F9W1UUE20FAF2CHU%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,9F9W1UUE20FAF2CHU,9F9W1UUE20FAF2CHU,476.0,1.0,true
+vin~9F9W1UUE20FAF2CHU%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,9F9W1UUE20FAF2CHU,9F9VH1EE20FAFZCHU,483.0,0.0,true
+vin~9FKF0CPP6UHX2CBPR%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,9FKF0CPP6UHX2CBPR,9FKF0CPP6UHX2CBPR,521.0,1.0,true
+vin~9FKF0CPP6UHX2CBPR%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,9FKF0CPP6UHX2CBPR,9FKF0CPP6UHX2CBPR,453.0,1.0,true
+vin~9FKF0CPP6UHX2CBPR%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,9FKF0CPP6UHX2CBPR,9FKF0CPP6UHX2CBPR,502.0,1.0,true
+vin~9FUNTWT3EAYFYJYRH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,905.0,93.0,9FUNTWT3EAYFYJYRH,9FUNTWT3EAYFYJYRH,498.0,1.0,true
+vin~9FUNTWT3EAYFYJYRH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,9FUNTWT3EAYFYJYRH,9FUNTWT3EAYFYJYRH,541.0,1.0,true
+vin~9FUNTWT3EAYFYJYRH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,923.0,92.0,9FUNTWT3EAYFYJYRH,9FUNTVVT3EAYFYJYR,520.0,0.0,true
+vin~9RK8M5YK258M15L50%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,9RK8M5YK258M15L50,9RK8M5YK258M15L50,507.0,1.0,true
+vin~9RK8M5YK258M15L50%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,9RK8M5YK258M15L50,9RK8M5YK258M15L50,520.0,1.0,true
+vin~9RK8M5YK258M15L50%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,9RK8M5YK258M15L50,9RK8M5YK258M15L50,471.0,1.0,true
+vin~9XG6NXLHYMHL57L2K%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,9XG6NXLHYMHL57L2K,9XG6NXLHYMHL57L2K,455.0,1.0,true
+vin~9XG6NXLHYMHL57L2K%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,9XG6NXLHYMHL57L2K,3XG6NXLHYMHL57L2K,531.0,0.0,true
+vin~9XG6NXLHYMHL57L2K%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,915.0,92.0,9XG6NXLHYMHL57L2K,9XG6NXL7HYMHL57L2,500.0,0.0,true
+vin~A42SCG22W0S6F56NB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,A42SCG22W0S6F56NB,A42SCG22W086F56NB,485.0,0.0,true
+vin~A42SCG22W0S6F56NB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,A42SCG22W0S6F56NB,A42SCG22W086F56NB,508.0,0.0,true
+vin~A42SCG22W0S6F56NB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,A42SCG22W0S6F56NB,A4ZSCGZ2VV0S6F56N,465.0,0.0,true
+vin~AD0TVPR2NBF74AUPB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,AD0TVPR2NBF74AUPB,ADDTVPR2NBF74AUPB,459.0,0.0,true
+vin~AD0TVPR2NBF74AUPB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,AD0TVPR2NBF74AUPB,AD0TVPR2NBF74AUPB,502.0,1.0,true
+vin~AD0TVPR2NBF74AUPB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,AD0TVPR2NBF74AUPB,ADDTVPRZNBF74AUPB,520.0,0.0,true
+vin~ADD9VKG2KY6LYGXLG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,918.0,93.0,ADD9VKG2KY6LYGXLG,ADD9VKG2KY5LYGXLG,478.0,0.0,true
+vin~ADD9VKG2KY6LYGXLG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,ADD9VKG2KY6LYGXLG,ADD9VKG2KY6LYGXLG,476.0,1.0,true
+vin~ADD9VKG2KY6LYGXLG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,942.0,92.0,ADD9VKG2KY6LYGXLG,ADD9VKG2KY6LYGXLG,512.0,1.0,true
+vin~AFD4H9YW94NMNWYAJ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,939.0,93.0,AFD4H9YW94NMNWYAJ,AFD4H9YW94DNLMNWY,528.0,0.0,true
+vin~AFD4H9YW94NMNWYAJ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,AFD4H9YW94NMNWYAJ,AFD4H9YW94NMNWYAJ,516.0,1.0,true
+vin~AFD4H9YW94NMNWYAJ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,952.0,92.0,AFD4H9YW94NMNWYAJ,AFD4H9YVV94NMNVVY,473.0,0.0,true
+vin~AKCM342UFVRVJW1KY%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,920.0,93.0,AKCM342UFVRVJW1KY,AKCFLZM2UFVRVJW1K,454.0,0.0,true
+vin~AKCM342UFVRVJW1KY%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,AKCM342UFVRVJW1KY,AKCMB42UFVRVJW1KY,519.0,0.0,true
+vin~AKCM342UFVRVJW1KY%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,934.0,92.0,AKCM342UFVRVJW1KY,AKCM342UFVRVJW1KY,560.0,1.0,true
+vin~AZYUXYAP0WBGBAJW2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,947.0,93.0,AZYUXYAP0WBGBAJW2,AZYUXYAP0WPGBAJW2,471.0,0.0,true
+vin~AZYUXYAP0WBGBAJW2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,AZYUXYAP0WBGBAJW2,AZYUXYAP0WBGBAJW2,497.0,1.0,true
+vin~AZYUXYAP0WBGBAJW2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,956.0,92.0,AZYUXYAP0WBGBAJW2,AZYUXYAPDWBGBAJW2,550.0,0.0,true
+vin~B41JBX78B0DNMATH2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,B41JBX78B0DNMATH2,B41JBX78BDDNMATH2,458.0,0.0,true
+vin~B41JBX78B0DNMATH2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,B41JBX78B0DNMATH2,B41JBX78B0DNMATH2,479.0,1.0,true
+vin~B41JBX78B0DNMATH2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,B41JBX78B0DNMATH2,B4LJBX78B0DNLFATH,550.0,0.0,true
+vin~B4UJFMSFVLLNXGXS6%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,B4UJFMSFVLLNXGXS6,B4UJFMSFVLLNXGXS6,1055.0,1.0,true
+vin~B4UJFMSFVLLNXGXS6%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,B4UJFMSFVLLNXGXS6,B4UJFMSFVLLNXGXS6,509.0,1.0,true
+vin~B4UJFMSFVLLNXGXS6%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,B4UJFMSFVLLNXGXS6,B4UJFMSEVLLNXGXS6,499.0,0.0,true
+vin~B81FJZ0VXU0AXPK6S%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,B81FJZ0VXU0AXPK6S,B81FJZ0VXU9AXPK6S,572.0,0.0,true
+vin~B81FJZ0VXU0AXPK6S%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,B81FJZ0VXU0AXPK6S,B81FJZ0VXU0AXPK6S,466.0,1.0,true
+vin~B81FJZ0VXU0AXPK6S%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,B81FJZ0VXU0AXPK6S,B81FJZ0VXUDALXPK6,488.0,0.0,true
+vin~B85GK3VAZJH20S13E%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,B85GK3VAZJH20S13E,B85GK3VAZJH2DS13E,493.0,0.0,true
+vin~B85GK3VAZJH20S13E%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,B85GK3VAZJH20S13E,B85GK3VAZJH2GS13E,540.0,0.0,true
+vin~B85GK3VAZJH20S13E%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,B85GK3VAZJH20S13E,B85GK3VAZJHZ0S13E,499.0,0.0,true
+vin~BAEWRLG47HU25012B%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,BAEWRLG47HU25012B,BAEWRLG47HU25012B,492.0,1.0,true
+vin~BAEWRLG47HU25012B%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BAEWRLG47HU25012B,BAEWRLG47HU25012B,510.0,1.0,true
+vin~BAEWRLG47HU25012B%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,BAEWRLG47HU25012B,BAEVVRLG47H112501,549.0,0.0,true
+vin~BAN3EAA20X5Z8FW1X%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,BAN3EAA20X5Z8FW1X,BAN3EAA20X5Z8FW1X,503.0,1.0,true
+vin~BAN3EAA20X5Z8FW1X%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BAN3EAA20X5Z8FW1X,BANBEAA20X5Z8FW1X,519.0,0.0,true
+vin~BAN3EAA20X5Z8FW1X%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,BAN3EAA20X5Z8FW1X,BAN3EAS120X5Z8FVS,549.0,0.0,true
+vin~BC88PZTTXREJNLBMZ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,BC88PZTTXREJNLBMZ,BC88PZTTXREJNLBMZ,471.0,1.0,true
+vin~BC88PZTTXREJNLBMZ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BC88PZTTXREJNLBMZ,BC88PZTTXREJNLBMZ,480.0,1.0,true
+vin~BC88PZTTXREJNLBMZ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,BC88PZTTXREJNLBMZ,BC88PZTTXREJNLBMZ,484.0,1.0,true
+vin~BEH61S4ULJPE8M44G%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,BEH61S4ULJPE8M44G,BEH61S4ULJPE8M44G,444.0,1.0,true
+vin~BEH61S4ULJPE8M44G%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BEH61S4ULJPE8M44G,EEH61S4ULJPE8M44G,487.0,0.0,true
+vin~BEH61S4ULJPE8M44G%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,BEH61S4ULJPE8M44G,BEH61S4ULJPJE8M44,465.0,0.0,true
+vin~BK4748B2CALHJ8JHH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,BK4748B2CALHJ8JHH,BK4748B2CALHJ8JHH,462.0,1.0,true
+vin~BK4748B2CALHJ8JHH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BK4748B2CALHJ8JHH,BK4748B2CALHJ8JHH,507.0,1.0,true
+vin~BK4748B2CALHJ8JHH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,BK4748B2CALHJ8JHH,BK4748BZCALHJ8JHH,475.0,0.0,true
+vin~BRF7AK2FYVA9RXKNM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,917.0,93.0,BRF7AK2FYVA9RXKNM,BRF7AK2FYV7A9RXKN,445.0,0.0,true
+vin~BRF7AK2FYVA9RXKNM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BRF7AK2FYVA9RXKNM,BRF7AK2FYVA9RXKNM,528.0,1.0,true
+vin~BRF7AK2FYVA9RXKNM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,934.0,92.0,BRF7AK2FYVA9RXKNM,BRF7AK2FYMLHRXKNM,483.0,0.0,true
+vin~BRGWSY0V2MMMR2PNS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,970.0,93.0,BRGWSY0V2MMMR2PNS,BRGWSY0V2MMMR2PNS,476.0,1.0,true
+vin~BRGWSY0V2MMMR2PNS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BRGWSY0V2MMMR2PNS,BRGWSY0V2MMMR2PNS,485.0,1.0,true
+vin~BRGWSY0V2MMMR2PNS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,972.0,92.0,BRGWSY0V2MMMR2PNS,BRGVVSYDVZMMMRZPN,458.0,0.0,true
+vin~BZTE8DADZ76USPJPC%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,BZTE8DADZ76USPJPC,BZTE8DADZ761EPJPC,462.0,0.0,true
+vin~BZTE8DADZ76USPJPC%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,BZTE8DADZ76USPJPC,EZTE8DADZ76USPJPC,493.0,0.0,true
+vin~BZTE8DADZ76USPJPC%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,BZTE8DADZ76USPJPC,BZTE8DADZ76USPJPC,466.0,1.0,true
+vin~C0M50UREGAYLGTP19%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,902.0,93.0,C0M50UREGAYLGTP19,CDM50UREGAYLGTP19,480.0,0.0,true
+vin~C0M50UREGAYLGTP19%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,C0M50UREGAYLGTP19,C0M50UREGAYLGTP19,500.0,1.0,true
+vin~C0M50UREGAYLGTP19%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,C0M50UREGAYLGTP19,CDM50UREGAYLGTP19,469.0,0.0,true
+vin~C1M3796W4ERKCSCT4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,902.0,93.0,C1M3796W4ERKCSCT4,C1M3796W4ERKCSCT4,472.0,1.0,true
+vin~C1M3796W4ERKCSCT4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,C1M3796W4ERKCSCT4,C1M3796W4ERKCSCT4,555.0,1.0,true
+vin~C1M3796W4ERKCSCT4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,C1M3796W4ERKCSCT4,C1M3796VV4ERKCSCT,475.0,0.0,true
+vin~C5K26HRHM5KNU3VS1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,907.0,93.0,C5K26HRHM5KNU3VS1,C5K26HRHM5KNU3VS1,457.0,1.0,true
+vin~C5K26HRHM5KNU3VS1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,C5K26HRHM5KNU3VS1,C5K26HRHM5KNU3VS1,467.0,1.0,true
+vin~C5K26HRHM5KNU3VS1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,C5K26HRHM5KNU3VS1,C5K26HRHM5KNU3VS1,474.0,1.0,true
+vin~C5RCGU594SX14VZWW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,922.0,93.0,C5RCGU594SX14VZWW,C5RCGU594SX14VZWW,467.0,1.0,true
+vin~C5RCGU594SX14VZWW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,C5RCGU594SX14VZWW,C5RCGU594SX14VZWW,478.0,1.0,true
+vin~C5RCGU594SX14VZWW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,907.0,92.0,C5RCGU594SX14VZWW,C5RCG11594SN4VZWW,490.0,0.0,true
+vin~C66NPT7043PTEV4MW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,C66NPT7043PTEV4MW,C66NPT7043PTEV4MW,477.0,1.0,true
+vin~C66NPT7043PTEV4MW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,C66NPT7043PTEV4MW,C66NPT7043PTEV4MW,487.0,1.0,true
+vin~C66NPT7043PTEV4MW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,C66NPT7043PTEV4MW,C66NPT7043PTEV4MW,492.0,1.0,true
+vin~C71CFBC1P7FYWFPDY%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,904.0,93.0,C71CFBC1P7FYWFPDY,C71CFBC1P7FYWFPDY,450.0,1.0,true
+vin~C71CFBC1P7FYWFPDY%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,C71CFBC1P7FYWFPDY,C71CFBC1P7FYWFPDY,457.0,1.0,true
+vin~C71CFBC1P7FYWFPDY%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,C71CFBC1P7FYWFPDY,C71CFBC1P7P1WVFPD,487.0,0.0,true
+vin~C9GWVEG9A7DV21ZA7%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,903.0,93.0,C9GWVEG9A7DV21ZA7,C9GVWEG9AZDV21ZA7,463.0,0.0,true
+vin~C9GWVEG9A7DV21ZA7%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,C9GWVEG9A7DV21ZA7,C9GWVEG9A7DV21ZA7,466.0,1.0,true
+vin~C9GWVEG9A7DV21ZA7%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,C9GWVEG9A7DV21ZA7,CTJGVVVEGCJAJDVZ1,477.0,0.0,true
+vin~CL5ZWMMMHZEX9V3JH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,936.0,93.0,CL5ZWMMMHZEX9V3JH,CL5ZWMMMHZEX9V3JH,482.0,1.0,true
+vin~CL5ZWMMMHZEX9V3JH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,CL5ZWMMMHZEX9V3JH,null,550.0,0.0,false
+vin~CL5ZWMMMHZEX9V3JH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,976.0,92.0,CL5ZWMMMHZEX9V3JH,CL5ZVVMMMHZEX9W3J,496.0,0.0,true
+vin~CMK4B3RADHTEH3GLT%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,925.0,93.0,CMK4B3RADHTEH3GLT,CMK4B3RADHTEH3GLT,504.0,1.0,true
+vin~CMK4B3RADHTEH3GLT%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,CMK4B3RADHTEH3GLT,CMK4B3RADHTEH3GLT,472.0,1.0,true
+vin~CMK4B3RADHTEH3GLT%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,942.0,92.0,CMK4B3RADHTEH3GLT,CMK483R3DHTEH3GLT,491.0,0.0,true
+vin~CS11W40PYV1G7WDMP%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,930.0,93.0,CS11W40PYV1G7WDMP,CS11W40P7YV1G7WDM,465.0,0.0,true
+vin~CS11W40PYV1G7WDMP%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,CS11W40PYV1G7WDMP,PCS11W40PYV1G7WDM,453.0,0.0,true
+vin~CS11W40PYV1G7WDMP%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,911.0,92.0,CS11W40PYV1G7WDMP,CS1HV40PJV1G7VVDM,481.0,0.0,true
+vin~CSK99TA02M9ZFHF3S%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,CSK99TA02M9ZFHF3S,CSK99TA02M9ZFHF3S,473.0,1.0,true
+vin~CSK99TA02M9ZFHF3S%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,CSK99TA02M9ZFHF3S,CSK99TA02M9ZFHFBS,496.0,0.0,true
+vin~CSK99TA02M9ZFHF3S%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,CSK99TA02M9ZFHF3S,CSK99TA02M9ZFHF3S,499.0,1.0,true
+vin~CXR0667R1E14M9XZM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,CXR0667R1E14M9XZM,CXR0667R1E14M9XZM,485.0,1.0,true
+vin~CXR0667R1E14M9XZM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,CXR0667R1E14M9XZM,CXR0667R1E14M9XZM,495.0,1.0,true
+vin~CXR0667R1E14M9XZM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,CXR0667R1E14M9XZM,CXR0667R1E14M9XZM,472.0,1.0,true
+vin~D0HPN3VH62YL7N6Y2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,D0HPN3VH62YL7N6Y2,D0HPN3XH62YL7N6Y2,436.0,0.0,true
+vin~D0HPN3VH62YL7N6Y2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,D0HPN3VH62YL7N6Y2,D0HPN3VH62YL7N6Y2,471.0,1.0,true
+vin~D0HPN3VH62YL7N6Y2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,D0HPN3VH62YL7N6Y2,D0HPN3LH62YL7N6YZ,485.0,0.0,true
+vin~D3RGKXRHS0N4GV8TX%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,913.0,93.0,D3RGKXRHS0N4GV8TX,D3RGKDBHSDN4GV8TX,467.0,0.0,true
+vin~D3RGKXRHS0N4GV8TX%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,D3RGKXRHS0N4GV8TX,DBRGKXRHSGN4GV8TX,488.0,0.0,true
+vin~D3RGKXRHS0N4GV8TX%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,912.0,92.0,D3RGKXRHS0N4GV8TX,D3RGKXRHS0N4GV8TX,477.0,1.0,true
+vin~D40RN1LW0DZJGBTDW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,932.0,93.0,D40RN1LW0DZJGBTDW,D40RN1LWDDZJGBTDW,485.0,0.0,true
+vin~D40RN1LW0DZJGBTDW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,D40RN1LW0DZJGBTDW,D40RN1LW0DZJGBTDW,466.0,1.0,true
+vin~D40RN1LW0DZJGBTDW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,924.0,92.0,D40RN1LW0DZJGBTDW,D40RN1LX10DZJGBTD,501.0,0.0,true
+vin~DAMTMRPATN2ME3Y51%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,922.0,93.0,DAMTMRPATN2ME3Y51,DAMTMRPATN2ME3Y51,450.0,1.0,true
+vin~DAMTMRPATN2ME3Y51%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,DAMTMRPATN2ME3Y51,DAMTMRPATN2ME3Y51,490.0,1.0,true
+vin~DAMTMRPATN2ME3Y51%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,943.0,92.0,DAMTMRPATN2ME3Y51,DAMTMRPATN2ME3Y5L,495.0,0.0,true
+vin~DLD2L46HDDN2Z2Y2J%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,DLD2L46HDDN2Z2Y2J,DLD2L46HDDN2Z2Y2J,495.0,1.0,true
+vin~DLD2L46HDDN2Z2Y2J%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,DLD2L46HDDN2Z2Y2J,DLD2L46HDDN2Z2Y2J,458.0,1.0,true
+vin~DLD2L46HDDN2Z2Y2J%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,DLD2L46HDDN2Z2Y2J,DLD2L46HDDN2Z2Y2J,470.0,1.0,true
+vin~DSEUN8MYTBRVJMWSF%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,952.0,93.0,DSEUN8MYTBRVJMWSF,DSEUN8MYTBBZJMWSF,477.0,0.0,true
+vin~DSEUN8MYTBRVJMWSF%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,DSEUN8MYTBRVJMWSF,DSEUN8MYTBRVJMWSF,485.0,1.0,true
+vin~DSEUN8MYTBRVJMWSF%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,958.0,92.0,DSEUN8MYTBRVJMWSF,DSEUN8MYTB7RVJMVV,500.0,0.0,true
+vin~DVAJL79Z4L0U1VKXV%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,DVAJL79Z4L0U1VKXV,DVAJL79Z4L0U1VKXV,474.0,1.0,true
+vin~DVAJL79Z4L0U1VKXV%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,DVAJL79Z4L0U1VKXV,DVAJL79Z4L0U1VKXV,482.0,1.0,true
+vin~DVAJL79Z4L0U1VKXV%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,DVAJL79Z4L0U1VKXV,DVAJL79Z4L0U1VKXV,498.0,1.0,true
+vin~DXR983ET67EKA45DD%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,DXR983ET67EKA45DD,DXR983ET67EKA45DD,446.0,1.0,true
+vin~DXR983ET67EKA45DD%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,DXR983ET67EKA45DD,DXR983ET67EKA45DD,482.0,1.0,true
+vin~DXR983ET67EKA45DD%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,DXR983ET67EKA45DD,DXR983ET67EKA45DD,488.0,1.0,true
+vin~DZ6VHFNMP5H9KGL8R%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,910.0,93.0,DZ6VHFNMP5H9KGL8R,DZ6VHFNMP5H9KGL8R,470.0,1.0,true
+vin~DZ6VHFNMP5H9KGL8R%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,DZ6VHFNMP5H9KGL8R,DZ6VHFNMP5H9KGL8R,513.0,1.0,true
+vin~DZ6VHFNMP5H9KGL8R%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,917.0,92.0,DZ6VHFNMP5H9KGL8R,DZ6VHFNR1P5119KGL,546.0,0.0,true
+vin~E0EP7LJ1S45879RB1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,E0EP7LJ1S45879RB1,E0EP7LJ1S45879RB1,505.0,1.0,true
+vin~E0EP7LJ1S45879RB1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,E0EP7LJ1S45879RB1,E0EP7LJ1S45879RB1,458.0,1.0,true
+vin~E0EP7LJ1S45879RB1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,E0EP7LJ1S45879RB1,E0EP7LJ1S45879RB1,502.0,1.0,true
+vin~E26SC9LNP13N4XYXV%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,E26SC9LNP13N4XYXV,E26SC9LNP13N4XYXV,469.0,1.0,true
+vin~E26SC9LNP13N4XYXV%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,E26SC9LNP13N4XYXV,E26SC9LNP13N4XYXV,939.0,1.0,true
+vin~E26SC9LNP13N4XYXV%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,E26SC9LNP13N4XYXV,EZ68C9LNP13N4XYXX,476.0,0.0,true
+vin~E2UV5NX6DR0BLU3L4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,E2UV5NX6DR0BLU3L4,E2UV5NX6DR0BLU3L4,482.0,1.0,true
+vin~E2UV5NX6DR0BLU3L4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,E2UV5NX6DR0BLU3L4,E2UV5NX6DR0BLU3L4,465.0,1.0,true
+vin~E2UV5NX6DR0BLU3L4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,E2UV5NX6DR0BLU3L4,E2UV5NX6DREBLU3L4,476.0,0.0,true
+vin~E601WH6Y8WFV6EGTZ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,E601WH6Y8WFV6EGTZ,E601WHEY8WFV6EGTZ,448.0,0.0,true
+vin~E601WH6Y8WFV6EGTZ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,E601WH6Y8WFV6EGTZ,E601WH6Y8WFV6EGTZ,475.0,1.0,true
+vin~E601WH6Y8WFV6EGTZ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,E601WH6Y8WFV6EGTZ,E601VVH6E8VVFV6EG,492.0,0.0,true
+vin~EAXB5WVBL53C3XD13%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,EAXB5WVBL53C3XD13,EAXB5WVBL53C3XD13,546.0,1.0,true
+vin~EAXB5WVBL53C3XD13%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,EAXB5WVBL53C3XD13,EAXBBWVBLBBCBXD13,494.0,0.0,true
+vin~EAXB5WVBL53C3XD13%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,EAXB5WVBL53C3XD13,EAXB5WVBL53C3XD13,475.0,1.0,true
+vin~EB42SZ9Y7KYEFEH1G%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,EB42SZ9Y7KYEFEH1G,EB42SZ9Y7KYEFEH1G,457.0,1.0,true
+vin~EB42SZ9Y7KYEFEH1G%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,EB42SZ9Y7KYEFEH1G,EB42SZ9Y7KYEFEH1G,460.0,1.0,true
+vin~EB42SZ9Y7KYEFEH1G%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,EB42SZ9Y7KYEFEH1G,EB4ZSZ9Y7KYEFEH1G,504.0,0.0,true
+vin~EC9DC31EL7JCHUP2A%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,EC9DC31EL7JCHUP2A,EC9DC31EL71CHUP2A,476.0,0.0,true
+vin~EC9DC31EL7JCHUP2A%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,EC9DC31EL7JCHUP2A,EC9DC31EL7JCHUP2A,464.0,1.0,true
+vin~EC9DC31EL7JCHUP2A%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,EC9DC31EL7JCHUP2A,EC9DC31EL71CHUP2A,461.0,0.0,true
+vin~EG759MMXD118P4Y78%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,EG759MMXD118P4Y78,EG759MMXD1J8P4Y78,468.0,0.0,true
+vin~EG759MMXD118P4Y78%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,EG759MMXD118P4Y78,EG759MMXD118P4Y78,481.0,1.0,true
+vin~EG759MMXD118P4Y78%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,EG759MMXD118P4Y78,EG759MMXD7H8P4Y78,477.0,0.0,true
+vin~F0F1FHZY17209VGNA%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,F0F1FHZY17209VGNA,F0F1FHZY17209VGNA,457.0,1.0,true
+vin~F0F1FHZY17209VGNA%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,F0F1FHZY17209VGNA,F0F1FHZY17209VGNA,488.0,1.0,true
+vin~F0F1FHZY17209VGNA%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,F0F1FHZY17209VGNA,F0F1FHZY172079VGN,372.0,0.0,true
+vin~F0YG8PSP6GRYH2GXS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,902.0,93.0,F0YG8PSP6GRYH2GXS,F0YG8PSP6GRYH2GXS,478.0,1.0,true
+vin~F0YG8PSP6GRYH2GXS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,F0YG8PSP6GRYH2GXS,FGYG8PSP6GRYH2GXS,537.0,0.0,true
+vin~F0YG8PSP6GRYH2GXS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,F0YG8PSP6GRYH2GXS,F0YG8PSP6GRYHZGXS,487.0,0.0,true
+vin~F3464U4N561DE0E8N%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,F3464U4N561DE0E8N,F3464U4B561DE0E8N,564.0,0.0,true
+vin~F3464U4N561DE0E8N%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,F3464U4N561DE0E8N,F3464U4N561DE0E8N,570.0,1.0,true
+vin~F3464U4N561DE0E8N%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,F3464U4N561DE0E8N,F3464U4T1561DE0E8,547.0,0.0,true
+vin~F74HNLP6NT02FC9SS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,F74HNLP6NT02FC9SS,F74HNLP6NT02FC9SS,444.0,1.0,true
+vin~F74HNLP6NT02FC9SS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,F74HNLP6NT02FC9SS,F74HNLP6NT02FC9SS,482.0,1.0,true
+vin~F74HNLP6NT02FC9SS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,F74HNLP6NT02FC9SS,F74HNLP6NT02FUJSS,513.0,0.0,true
+vin~FDEUSUWZ4U8CC14UT%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,914.0,93.0,FDEUSUWZ4U8CC14UT,FDEUSUWZ4U8CC14UT,447.0,1.0,true
+vin~FDEUSUWZ4U8CC14UT%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,FDEUSUWZ4U8CC14UT,EPEUSUWZ4U8CC14UT,501.0,0.0,true
+vin~FDEUSUWZ4U8CC14UT%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,FDEUSUWZ4U8CC14UT,FDEUSUVVZEHEVCHUT,477.0,0.0,true
+vin~FEUB5LE7F579WDU60%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,FEUB5LE7F579WDU60,FEUB5LE7F579WDU60,443.0,1.0,true
+vin~FEUB5LE7F579WDU60%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,FEUB5LE7F579WDU60,PFEUBBLE7F579WDU6,451.0,0.0,true
+vin~FEUB5LE7F579WDU60%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,FEUB5LE7F579WDU60,FEUB5LE7F5779VVDU,538.0,0.0,true
+vin~FKSF5ZF21K09KDW9W%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,901.0,93.0,FKSF5ZF21K09KDW9W,FKSF5ZF21K99KDW9W,475.0,0.0,true
+vin~FKSF5ZF21K09KDW9W%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,FKSF5ZF21K09KDW9W,FKSFBZF21K09KDW9W,489.0,0.0,true
+vin~FKSF5ZF21K09KDW9W%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,FKSF5ZF21K09KDW9W,FKSHZFHKP1JKDW1NV,514.0,0.0,true
+vin~FNN3A0MWME3LTLPZ4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,911.0,93.0,FNN3A0MWME3LTLPZ4,FNN3A0MWME3LTLPZ4,445.0,1.0,true
+vin~FNN3A0MWME3LTLPZ4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,FNN3A0MWME3LTLPZ4,FNN3A0MWME3LTLPZ4,527.0,1.0,true
+vin~FNN3A0MWME3LTLPZ4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,926.0,92.0,FNN3A0MWME3LTLPZ4,FNN3A0MVVMBLTLPZ4,473.0,0.0,true
+vin~G5VZUUZYFH7U3WHPX%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,921.0,93.0,G5VZUUZYFH7U3WHPX,G5VZUUZYFH7U3WHPX,453.0,1.0,true
+vin~G5VZUUZYFH7U3WHPX%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,G5VZUUZYFH7U3WHPX,GBVZUUZYFH7U3WHPX,454.0,0.0,true
+vin~G5VZUUZYFH7U3WHPX%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,934.0,92.0,G5VZUUZYFH7U3WHPX,G5VZUUZYFE7U3VVHP,464.0,0.0,true
+vin~G7FG1CDFHZN6A9VB6%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,G7FG1CDFHZN6A9VB6,G7FG1CDFHZN6A9VB6,451.0,1.0,true
+vin~G7FG1CDFHZN6A9VB6%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,G7FG1CDFHZN6A9VB6,PG7FG1CDFHZN6A9VB,494.0,0.0,true
+vin~G7FG1CDFHZN6A9VB6%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,G7FG1CDFHZN6A9VB6,G7FG1CDFHZN6A9VB6,463.0,1.0,true
+vin~GAX94EKP2SV1ACRRB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,907.0,93.0,GAX94EKP2SV1ACRRB,GAX94EKP2SV1ACRRB,595.0,1.0,true
+vin~GAX94EKP2SV1ACRRB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GAX94EKP2SV1ACRRB,PGAX94EKP2SV1ACRR,455.0,0.0,true
+vin~GAX94EKP2SV1ACRRB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,GAX94EKP2SV1ACRRB,GAX94EKPZSV1ACRRB,475.0,0.0,true
+vin~GDEANK97BFB76WW9U%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,942.0,93.0,GDEANK97BFB76WW9U,GDEANK97BFB76WW9U,454.0,1.0,true
+vin~GDEANK97BFB76WW9U%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GDEANK97BFB76WW9U,GDEANK97BFB76WW9U,480.0,1.0,true
+vin~GDEANK97BFB76WW9U%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,925.0,92.0,GDEANK97BFB76WW9U,GDEANK27BFB76VVVV,515.0,0.0,true
+vin~GE5FESSBGBMPV5WYB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,950.0,93.0,GE5FESSBGBMPV5WYB,GE5FESSBGBMPV5WYB,549.0,1.0,true
+vin~GE5FESSBGBMPV5WYB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GE5FESSBGBMPV5WYB,GE5FESSBGBMPVBWYB,446.0,0.0,true
+vin~GE5FESSBGBMPV5WYB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,930.0,92.0,GE5FESSBGBMPV5WYB,GE5FESSBGBMPV5VVY,476.0,0.0,true
+vin~GJVAVET4UTGFT3MFY%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,GJVAVET4UTGFT3MFY,GJVAVET4UTGFT3MFY,458.0,1.0,true
+vin~GJVAVET4UTGFT3MFY%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GJVAVET4UTGFT3MFY,PGJVAVET4UTGFT3MF,514.0,0.0,true
+vin~GJVAVET4UTGFT3MFY%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,918.0,92.0,GJVAVET4UTGFT3MFY,GJVAVELEUTGFTSBMF,513.0,0.0,true
+vin~GN9T3ZE03LN7CCMKR%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,902.0,93.0,GN9T3ZE03LN7CCMKR,GN9T3ZE03LN7CCMKR,460.0,1.0,true
+vin~GN9T3ZE03LN7CCMKR%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GN9T3ZE03LN7CCMKR,EN9T3ZE03LN7CCMKR,468.0,0.0,true
+vin~GN9T3ZE03LN7CCMKR%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,901.0,92.0,GN9T3ZE03LN7CCMKR,GN9T3Z7EU3LN7CCMK,495.0,0.0,true
+vin~GNJE5WMGX7FZGUL40%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,922.0,93.0,GNJE5WMGX7FZGUL40,PGNJE5WMGX7FZGUL4,461.0,0.0,true
+vin~GNJE5WMGX7FZGUL40%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GNJE5WMGX7FZGUL40,GNJEBWMGX7FZGUL40,548.0,0.0,true
+vin~GNJE5WMGX7FZGUL40%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,922.0,92.0,GNJE5WMGX7FZGUL40,GNJE5VVMGX7FZGUL4,505.0,0.0,true
+vin~GPR7ZRGZDVPYNJD9H%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,917.0,93.0,GPR7ZRGZDVPYNJD9H,GPR7ZRGZDVPYNJD9H,457.0,1.0,true
+vin~GPR7ZRGZDVPYNJD9H%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GPR7ZRGZDVPYNJD9H,GPR7ZRGZDVPYNJD9H,457.0,1.0,true
+vin~GPR7ZRGZDVPYNJD9H%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,912.0,92.0,GPR7ZRGZDVPYNJD9H,GPR7ZRGZDVDVNJD9H,481.0,0.0,true
+vin~GRJRH1GP585Z9E852%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,GRJRH1GP585Z9E852,GRJRH1GP585Z9E852,445.0,1.0,true
+vin~GRJRH1GP585Z9E852%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GRJRH1GP585Z9E852,GRJRH1GP58BZ9E852,469.0,0.0,true
+vin~GRJRH1GP585Z9E852%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,GRJRH1GP585Z9E852,GRJRH19P585Z9E852,509.0,0.0,true
+vin~GUCCA3H7A5X9Y81DL%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,GUCCA3H7A5X9Y81DL,GUCCA3H7A5X9Y81DL,505.0,1.0,true
+vin~GUCCA3H7A5X9Y81DL%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,GUCCA3H7A5X9Y81DL,ZGUCCA3H7A5X9Y81D,530.0,0.0,true
+vin~GUCCA3H7A5X9Y81DL%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,GUCCA3H7A5X9Y81DL,GUCCA3H7A5X9Y81DL,509.0,1.0,true
+vin~H0E8C57MXHPG6C3GY%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,905.0,93.0,H0E8C57MXHPG6C3GY,H0E8C57MXHEG6C3GY,460.0,0.0,true
+vin~H0E8C57MXHPG6C3GY%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,H0E8C57MXHPG6C3GY,H0E8C57MXHPG6C3GY,467.0,1.0,true
+vin~H0E8C57MXHPG6C3GY%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,H0E8C57MXHPG6C3GY,H0E8C57MXHPG6C3GY,493.0,1.0,true
+vin~H0VRD7NNG8UYXWS2G%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,939.0,93.0,H0VRD7NNG8UYXWS2G,H0VRD7NNG87UYXWS2,568.0,0.0,true
+vin~H0VRD7NNG8UYXWS2G%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,H0VRD7NNG8UYXWS2G,H0VRD7NNG8UYXWS2G,473.0,1.0,true
+vin~H0VRD7NNG8UYXWS2G%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,935.0,92.0,H0VRD7NNG8UYXWS2G,H0VRD7NNG8JWXWSZG,495.0,0.0,true
+vin~H86GGYCVRR8RHWXXH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,952.0,93.0,H86GGYCVRR8RHWXXH,H86GGYCVRR8FLHWXX,469.0,0.0,true
+vin~H86GGYCVRR8RHWXXH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,H86GGYCVRR8RHWXXH,H86GGYCVRR8RHWXXH,470.0,1.0,true
+vin~H86GGYCVRR8RHWXXH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,974.0,92.0,H86GGYCVRR8RHWXXH,H86GGYCVRR78RHVVX,462.0,0.0,true
+vin~H9KSPTR712D0EDPTS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,H9KSPTR712D0EDPTS,H9KSPTR712D0EDPTS,465.0,1.0,true
+vin~H9KSPTR712D0EDPTS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,H9KSPTR712D0EDPTS,H9KSPTR712D0EDPTS,482.0,1.0,true
+vin~H9KSPTR712D0EDPTS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,H9KSPTR712D0EDPTS,H9KSPT5712D0EDPTS,483.0,0.0,true
+vin~HB52P3Z30LZKJZTYM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,HB52P3Z30LZKJZTYM,HB52P3Z30LZKJZTYM,481.0,1.0,true
+vin~HB52P3Z30LZKJZTYM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HB52P3Z30LZKJZTYM,HB52P3230LZKJZTYM,467.0,0.0,true
+vin~HB52P3Z30LZKJZTYM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,HB52P3Z30LZKJZTYM,HB52P3Z30LZKJZTYM,515.0,1.0,true
+vin~HDL86RPLGBUT4L0ZE%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,HDL86RPLGBUT4L0ZE,HDL86RPLGBUT4L0ZE,763.0,1.0,true
+vin~HDL86RPLGBUT4L0ZE%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HDL86RPLGBUT4L0ZE,HDL86RPLGBUT4L0ZE,516.0,1.0,true
+vin~HDL86RPLGBUT4L0ZE%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,HDL86RPLGBUT4L0ZE,HDL86RPLGBET4L0ZE,733.0,0.0,true
+vin~HG89XXZEURSVKR3RW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,934.0,93.0,HG89XXZEURSVKR3RW,SHG89XXZEURSVKR3R,469.0,0.0,true
+vin~HG89XXZEURSVKR3RW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HG89XXZEURSVKR3RW,HG89XXZEURSVKR3RW,460.0,1.0,true
+vin~HG89XXZEURSVKR3RW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,942.0,92.0,HG89XXZEURSVKR3RW,HG89XXZEUREVKRHUW,449.0,0.0,true
+vin~HJ19GVAEZW5BTZT5N%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,HJ19GVAEZW5BTZT5N,HJ19GVAEZW5BTZT5N,464.0,1.0,true
+vin~HJ19GVAEZW5BTZT5N%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HJ19GVAEZW5BTZT5N,HJ19GVAEZWBBTZTBN,921.0,0.0,true
+vin~HJ19GVAEZW5BTZT5N%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,HJ19GVAEZW5BTZT5N,HJ190V1LEZWSBTZT5,903.0,0.0,true
+vin~HJ7NMB6SSK4R8SRK7%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,902.0,93.0,HJ7NMB6SSK4R8SRK7,HJ7NMB6SSK4R8SRKZ,448.0,0.0,true
+vin~HJ7NMB6SSK4R8SRK7%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HJ7NMB6SSK4R8SRK7,HJ7NMB6SSK4R8SRK7,570.0,1.0,true
+vin~HJ7NMB6SSK4R8SRK7%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,HJ7NMB6SSK4R8SRK7,HJ7NMB6SSK4R8SRKL,543.0,0.0,true
+vin~HVJ7TXHH8BR5TZ5VD%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,HVJ7TXHH8BR5TZ5VD,HVJ7TXHH8BR5TZ5VD,612.0,1.0,true
+vin~HVJ7TXHH8BR5TZ5VD%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HVJ7TXHH8BR5TZ5VD,HVJ7TXHH8BR5TZ5VD,465.0,1.0,true
+vin~HVJ7TXHH8BR5TZ5VD%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,HVJ7TXHH8BR5TZ5VD,HVJ7TXHH8BR5TZ5VD,518.0,1.0,true
+vin~HW5M8F6V398S097BY%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,HW5M8F6V398S097BY,HW5M8F6V3988097BY,423.0,0.0,true
+vin~HW5M8F6V398S097BY%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HW5M8F6V398S097BY,HW5M8F6V398S097BY,509.0,1.0,true
+vin~HW5M8F6V398S097BY%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,HW5M8F6V398S097BY,HVV5M8F6V398SD97B,465.0,0.0,true
+vin~HXVB314461JU2BHX1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,HXVB314461JU2BHX1,HXVB314461JU2BHX1,445.0,1.0,true
+vin~HXVB314461JU2BHX1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,HXVB314461JU2BHX1,HXVB314461JU2BHX1,511.0,1.0,true
+vin~HXVB314461JU2BHX1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,HXVB314461JU2BHX1,HXVB31446LJUZBHX1,464.0,0.0,true
+vin~J03PUJ8ZLZTY3CMUS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,J03PUJ8ZLZTY3CMUS,J03PUJ8ZLZTY3CMUS,481.0,1.0,true
+vin~J03PUJ8ZLZTY3CMUS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,J03PUJ8ZLZTY3CMUS,J03PUJ8ZLZTY3CMUS,504.0,1.0,true
+vin~J03PUJ8ZLZTY3CMUS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,J03PUJ8ZLZTY3CMUS,J03PUJ8ZLZTY3CMUS,479.0,1.0,true
+vin~J4PAX3DX7D7HNSKPN%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,J4PAX3DX7D7HNSKPN,J4PAX3DX7D7HNSKPN,416.0,1.0,true
+vin~J4PAX3DX7D7HNSKPN%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,J4PAX3DX7D7HNSKPN,PJ4PAXBDX7D7HNSKP,463.0,0.0,true
+vin~J4PAX3DX7D7HNSKPN%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,J4PAX3DX7D7HNSKPN,J4PAX3DX7D7HNSKPN,434.0,1.0,true
+vin~JA809UF73HP7JRWFM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,JA809UF73HP7JRWFM,JA809UF73HP7JRWFM,478.0,1.0,true
+vin~JA809UF73HP7JRWFM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,JA809UF73HP7JRWFM,JA809UF73HP7JRWFM,458.0,1.0,true
+vin~JA809UF73HP7JRWFM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,JA809UF73HP7JRWFM,JA809UF72HP7JRVVF,470.0,0.0,true
+vin~JJD0JL7YC0EDAJV7F%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,JJD0JL7YC0EDAJV7F,JJD0JL7Y60EDAJV7F,466.0,0.0,true
+vin~JJD0JL7YC0EDAJV7F%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,JJD0JL7YC0EDAJV7F,JJDGJL7YC0EDAJV7F,459.0,0.0,true
+vin~JJD0JL7YC0EDAJV7F%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,JJD0JL7YC0EDAJV7F,JJDGJLDVCDEDAJV7F,529.0,0.0,true
+vin~JKDLN6CFUMUCVA9ZP%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,916.0,93.0,JKDLN6CFUMUCVA9ZP,JKDLN6CFUMUCVA9ZP,552.0,1.0,true
+vin~JKDLN6CFUMUCVA9ZP%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,JKDLN6CFUMUCVA9ZP,PJKDLN6CFUMUCVA9Z,541.0,0.0,true
+vin~JKDLN6CFUMUCVA9ZP%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,923.0,92.0,JKDLN6CFUMUCVA9ZP,JKDLNCLCFUMUCMMJZ,471.0,0.0,true
+vin~JU2L1U6B5ZNPB2X5P%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,JU2L1U6B5ZNPB2X5P,JU2L1U6B5ZNPB2X5P,468.0,1.0,true
+vin~JU2L1U6B5ZNPB2X5P%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,JU2L1U6B5ZNPB2X5P,JU2L1U6BBZNPB2X5P,521.0,0.0,true
+vin~JU2L1U6B5ZNPB2X5P%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,JU2L1U6B5ZNPB2X5P,JUZL1U6B5ZNPB2X5P,547.0,0.0,true
+vin~K42FDL97WZRMSXFE7%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,K42FDL97WZRMSXFE7,K42FDL97WZRMSXFE7,557.0,1.0,true
+vin~K42FDL97WZRMSXFE7%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,K42FDL97WZRMSXFE7,K42FDL97WZRMSXFE7,463.0,1.0,true
+vin~K42FDL97WZRMSXFE7%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,K42FDL97WZRMSXFE7,K42FDL97JVZRMSXFE,503.0,0.0,true
+vin~K6B1LPTM5YNPMMHG0%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,932.0,93.0,K6B1LPTM5YNPMMHG0,K6B1LPTM5YNPMMHG0,429.0,1.0,true
+vin~K6B1LPTM5YNPMMHG0%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,K6B1LPTM5YNPMMHG0,K6B1LPTM5YNPMMHG0,375.0,1.0,true
+vin~K6B1LPTM5YNPMMHG0%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,946.0,92.0,K6B1LPTM5YNPMMHG0,K6B1LPTM5YNPMMHG0,436.0,1.0,true
+vin~KCBC1RDP4PPDJSFTT%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,KCBC1RDP4PPDJSFTT,KCBC1RDP4PPDJSFTT,443.0,1.0,true
+vin~KCBC1RDP4PPDJSFTT%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,KCBC1RDP4PPDJSFTT,KCBC1RDP4PPDJSFTT,512.0,1.0,true
+vin~KCBC1RDP4PPDJSFTT%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,KCBC1RDP4PPDJSFTT,KCBCHRDPEEPPDJSFT,468.0,0.0,true
+vin~KET2FG76N8ZMJ65FP%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,KET2FG76N8ZMJ65FP,KET2FG76N8ZMJ65FP,487.0,1.0,true
+vin~KET2FG76N8ZMJ65FP%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,KET2FG76N8ZMJ65FP,KET2FG76N8ZMJ65FP,483.0,1.0,true
+vin~KET2FG76N8ZMJ65FP%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,KET2FG76N8ZMJ65FP,KETZFG76N8ZMJ65FP,481.0,0.0,true
+vin~KF5E3SAD856TJYKU6%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,KF5E3SAD856TJYKU6,KF5E3SAD856TJYKU6,482.0,1.0,true
+vin~KF5E3SAD856TJYKU6%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,KF5E3SAD856TJYKU6,KFBEBSAD856TJYKU6,504.0,0.0,true
+vin~KF5E3SAD856TJYKU6%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,KF5E3SAD856TJYKU6,KF5E3SAD859TJYKU6,502.0,0.0,true
+vin~KL11LJUL6PFGWL1VJ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,KL11LJUL6PFGWL1VJ,KL11LJUE6PFGWL1VJ,474.0,0.0,true
+vin~KL11LJUL6PFGWL1VJ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,KL11LJUL6PFGWL1VJ,KL11LJUL6PFGWL1VJ,490.0,1.0,true
+vin~KL11LJUL6PFGWL1VJ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,KL11LJUL6PFGWL1VJ,KL11LJUL6PRFGWVL1,568.0,0.0,true
+vin~KR480AUH4S5R7SLGM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,KR480AUH4S5R7SLGM,KR480AUH4S5R7SLGM,450.0,1.0,true
+vin~KR480AUH4S5R7SLGM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,KR480AUH4S5R7SLGM,KR480AUH4SBR7SLGM,495.0,0.0,true
+vin~KR480AUH4S5R7SLGM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,KR480AUH4S5R7SLGM,KR480AUH4S5R7SLGM,566.0,1.0,true
+vin~KXACF78LWMPLT2XY3%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,901.0,93.0,KXACF78LWMPLT2XY3,KXACF78LWH1PLT2XY,467.0,0.0,true
+vin~KXACF78LWMPLT2XY3%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,KXACF78LWMPLT2XY3,KXACF78LWMPLT2XY3,515.0,1.0,true
+vin~KXACF78LWMPLT2XY3%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,923.0,92.0,KXACF78LWMPLT2XY3,KXACL78LVVMPLT2XY,475.0,0.0,true
+vin~L24AE8KET9T8MX8MS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,L24AE8KET9T8MX8MS,L24AE8KET9T8MX8MS,479.0,1.0,true
+vin~L24AE8KET9T8MX8MS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,L24AE8KET9T8MX8MS,EE4AE8KET9T8MX8MS,474.0,0.0,true
+vin~L24AE8KET9T8MX8MS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,L24AE8KET9T8MX8MS,L24441E8KE7T9T8MX,494.0,0.0,true
+vin~L55KDZHY5PANNSJSB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,L55KDZHY5PANNSJSB,L55KDZHY5PANNSJSB,445.0,1.0,true
+vin~L55KDZHY5PANNSJSB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,L55KDZHY5PANNSJSB,L55KDZHY5PANNSJSB,467.0,1.0,true
+vin~L55KDZHY5PANNSJSB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,L55KDZHY5PANNSJSB,L55KDZHY5P1NNSJSB,464.0,0.0,true
+vin~L5PY9AL56AY56TKKW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,L5PY9AL56AY56TKKW,L5PY9AL56AY56TKKW,445.0,1.0,true
+vin~L5PY9AL56AY56TKKW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,L5PY9AL56AY56TKKW,PLBPY9AL56AY56TKK,494.0,0.0,true
+vin~L5PY9AL56AY56TKKW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,L5PY9AL56AY56TKKW,L5PY9AL564JLL6TKK,454.0,0.0,true
+vin~L8REKERYR41ZM41GF%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,L8REKERYR41ZM41GF,L8REKERYR41EV141G,460.0,0.0,true
+vin~L8REKERYR41ZM41GF%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,L8REKERYR41ZM41GF,L8REKERYR41ZM41GF,470.0,1.0,true
+vin~L8REKERYR41ZM41GF%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,L8REKERYR41ZM41GF,L8REKERYR4LZM41GF,513.0,0.0,true
+vin~LE2STFHR701YWYGZ2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,LE2STFHR701YWYGZ2,LE2STFHR701YWYGZ2,449.0,1.0,true
+vin~LE2STFHR701YWYGZ2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,LE2STFHR701YWYGZ2,LE2STFHR701YWYGZ2,459.0,1.0,true
+vin~LE2STFHR701YWYGZ2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,LE2STFHR701YWYGZ2,LEZSTFHBWHYVVYGZZ,468.0,0.0,true
+vin~LE5U3T21WRJZJN9Y4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,LE5U3T21WRJZJN9Y4,LE5U3T21WRJZJN9Y4,480.0,1.0,true
+vin~LE5U3T21WRJZJN9Y4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,LE5U3T21WRJZJN9Y4,LE5U3T21WRJZJN9Y4,450.0,1.0,true
+vin~LE5U3T21WRJZJN9Y4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,LE5U3T21WRJZJN9Y4,LE5U3T21VVRGLZJN9,482.0,0.0,true
+vin~LH3LRU7G78TUX8UN7%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,LH3LRU7G78TUX8UN7,LH3LRU7G78TUX8UN7,448.0,1.0,true
+vin~LH3LRU7G78TUX8UN7%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,LH3LRU7G78TUX8UN7,PLHBLRU7G78TUX8UN,476.0,0.0,true
+vin~LH3LRU7G78TUX8UN7%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,LH3LRU7G78TUX8UN7,LH3LR1EG78TUX8UN7,485.0,0.0,true
+vin~LLK9GMMM5GVN3BWZX%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,962.0,93.0,LLK9GMMM5GVN3BWZX,LLK9GMMM5GVN3BWZX,483.0,1.0,true
+vin~LLK9GMMM5GVN3BWZX%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,LLK9GMMM5GVN3BWZX,LLK9GMMM5GVN3BWZX,496.0,1.0,true
+vin~LLK9GMMM5GVN3BWZX%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,1000.0,92.0,LLK9GMMM5GVN3BWZX,LLK1JGMMM5GV13BWZ,466.0,0.0,true
+vin~LUEZ901KFG6L2UESU%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,LUEZ901KFG6L2UESU,LUEZ901KFG6L2UESU,456.0,1.0,true
+vin~LUEZ901KFG6L2UESU%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,LUEZ901KFG6L2UESU,LUEZ901KFG6L2UESU,461.0,1.0,true
+vin~LUEZ901KFG6L2UESU%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,LUEZ901KFG6L2UESU,LUEZ901KFG6L2UESU,561.0,1.0,true
+vin~M3V5D15B7E78A4PFE%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,M3V5D15B7E78A4PFE,M3V5D15B7E78A4PFE,447.0,1.0,true
+vin~M3V5D15B7E78A4PFE%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,M3V5D15B7E78A4PFE,M3V5D15B7E78A4PFE,460.0,1.0,true
+vin~M3V5D15B7E78A4PFE%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,M3V5D15B7E78A4PFE,M3V5D15B7E78A4PFE,457.0,1.0,true
+vin~M6V07C29D7L1K92RV%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,M6V07C29D7L1K92RV,M6V07C29D7L1K92RV,445.0,1.0,true
+vin~M6V07C29D7L1K92RV%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,M6V07C29D7L1K92RV,M6V07C29D7L1K92RV,454.0,1.0,true
+vin~M6V07C29D7L1K92RV%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,M6V07C29D7L1K92RV,M6X707CZ9D7L1K92R,468.0,0.0,true
+vin~MF61KPCU3FRKS19E4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,MF61KPCU3FRKS19E4,MF61KPCU3FRKS19E4,479.0,1.0,true
+vin~MF61KPCU3FRKS19E4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,MF61KPCU3FRKS19E4,MF61KPCU3FRKS19E4,453.0,1.0,true
+vin~MF61KPCU3FRKS19E4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,MF61KPCU3FRKS19E4,MF61KPCU3FBKS19E4,505.0,0.0,true
+vin~MFTJ5HB27AXRH2R4W%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,908.0,93.0,MFTJ5HB27AXRH2R4W,MFTJ5HB27AZRH2R4W,453.0,0.0,true
+vin~MFTJ5HB27AXRH2R4W%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,MFTJ5HB27AXRH2R4W,MFTJBHB27AXRH2R4W,478.0,0.0,true
+vin~MFTJ5HB27AXRH2R4W%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,907.0,92.0,MFTJ5HB27AXRH2R4W,MFTJ5HBZ7AX3H2R4W,474.0,0.0,true
+vin~MLJFUUPBAA8UP9PD0%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,904.0,93.0,MLJFUUPBAA8UP9PD0,MLJFUUPBAA8UP9PDD,440.0,0.0,true
+vin~MLJFUUPBAA8UP9PD0%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,MLJFUUPBAA8UP9PD0,LEJFUUPBAA8UP9PD0,463.0,0.0,true
+vin~MLJFUUPBAA8UP9PD0%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,MLJFUUPBAA8UP9PD0,MLJFUUPPAA8UP9PD0,502.0,0.0,true
+vin~MLM507VGVFAEYXAK8%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,907.0,93.0,MLM507VGVFAEYXAK8,MLM507VGVFAEYXAK8,449.0,1.0,true
+vin~MLM507VGVFAEYXAK8%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,MLM507VGVFAEYXAK8,MLMB07VGVFAEYXAKS,513.0,0.0,true
+vin~MLM507VGVFAEYXAK8%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,938.0,92.0,MLM507VGVFAEYXAK8,MLM507VGVFAEYXAKE,490.0,0.0,true
+vin~N0UBV32SNB79AKB5Z%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,N0UBV32SNB79AKB5Z,N0UBV32SNBL9AKB5Z,1157.0,0.0,true
+vin~N0UBV32SNB79AKB5Z%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,N0UBV32SNB79AKB5Z,N0UBV32SNB79AKBBZ,525.0,0.0,true
+vin~N0UBV32SNB79AKB5Z%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,N0UBV32SNB79AKB5Z,NDUBV3ZSNB79AKB5Z,525.0,0.0,true
+vin~N6NN1JXJXU71HPSAW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,902.0,93.0,N6NN1JXJXU71HPSAW,N6NN1JXJXU71HPSAW,444.0,1.0,true
+vin~N6NN1JXJXU71HPSAW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,N6NN1JXJXU71HPSAW,N6NN1JXJXU71HPSAW,386.0,1.0,true
+vin~N6NN1JXJXU71HPSAW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,N6NN1JXJXU71HPSAW,N6NN1JXJXU71HPSAW,467.0,1.0,true
+vin~NB2J41LR4Y8NEW3C9%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,NB2J41LR4Y8NEW3C9,NB2J41LR4Y8NEW3C9,503.0,1.0,true
+vin~NB2J41LR4Y8NEW3C9%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,NB2J41LR4Y8NEW3C9,NB2J41LR4Y8NEW3C9,466.0,1.0,true
+vin~NB2J41LR4Y8NEW3C9%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,NB2J41LR4Y8NEW3C9,NB2J41LR4Y8NEW3C9,498.0,1.0,true
+vin~NH6E3N3YSDEYT4E07%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,NH6E3N3YSDEYT4E07,NH6E3E3YSDEYT4E07,463.0,0.0,true
+vin~NH6E3N3YSDEYT4E07%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,NH6E3N3YSDEYT4E07,NH6E3N3YSDEYT4E07,524.0,1.0,true
+vin~NH6E3N3YSDEYT4E07%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,NH6E3N3YSDEYT4E07,BH6E3N3YSDEYT4E07,483.0,0.0,true
+vin~NJ0W6ZW24RUC1SKK8%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,915.0,93.0,NJ0W6ZW24RUC1SKK8,NJ0W62W24RUC1SKK8,521.0,0.0,true
+vin~NJ0W6ZW24RUC1SKK8%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,NJ0W6ZW24RUC1SKK8,NJ0W6ZW24RUC1SKK8,696.0,1.0,true
+vin~NJ0W6ZW24RUC1SKK8%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,NJ0W6ZW24RUC1SKK8,NJ0VV6ZVV24RUC1SK,532.0,0.0,true
+vin~NKGF0FPUD5TJ71L71%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,NKGF0FPUD5TJ71L71,NKGF0FPUD5TJ71L71,591.0,1.0,true
+vin~NKGF0FPUD5TJ71L71%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,NKGF0FPUD5TJ71L71,NKGFGFPUDBTJ71L71,523.0,0.0,true
+vin~NKGF0FPUD5TJ71L71%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,NKGF0FPUD5TJ71L71,NKGFDFEUDSRTJHL71,547.0,0.0,true
+vin~NNSR5ENJZ45YF01K2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,NNSR5ENJZ45YF01K2,NNSR5ENJZ45YF01K2,483.0,1.0,true
+vin~NNSR5ENJZ45YF01K2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,NNSR5ENJZ45YF01K2,NNSRBENJZ45YF01K2,518.0,0.0,true
+vin~NNSR5ENJZ45YF01K2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,NNSR5ENJZ45YF01K2,NNSR5ENJZ45YF01K2,574.0,1.0,true
+vin~NPSFNYG12S6SC8WGE%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,920.0,93.0,NPSFNYG12S6SC8WGE,NPSFNYG12S6SC8WGE,514.0,1.0,true
+vin~NPSFNYG12S6SC8WGE%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,NPSFNYG12S6SC8WGE,NPSFNYG12S6SC8WGE,535.0,1.0,true
+vin~NPSFNYG12S6SC8WGE%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,NPSFNYG12S6SC8WGE,NPSFNYG1ZS6SC8HVG,555.0,0.0,true
+vin~NV9JDCRPLFGUL1VAT%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,NV9JDCRPLFGUL1VAT,NV9JDCBPLFGUL1VAT,489.0,0.0,true
+vin~NV9JDCRPLFGUL1VAT%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,NV9JDCRPLFGUL1VAT,NV9JDCRPLFGUL1VAT,555.0,1.0,true
+vin~NV9JDCRPLFGUL1VAT%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,901.0,92.0,NV9JDCRPLFGUL1VAT,NVCJGJDCRPLFEUL1V,470.0,0.0,true
+vin~P28JF0EB6JCZR8AKU%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,P28JF0EB6JCZR8AKU,P28JF0EB6JCZR8AKU,459.0,1.0,true
+vin~P28JF0EB6JCZR8AKU%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,P28JF0EB6JCZR8AKU,P28JF0EB6JCZR8AKU,498.0,1.0,true
+vin~P28JF0EB6JCZR8AKU%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,P28JF0EB6JCZR8AKU,P28JF0EB6JCZR8AKU,497.0,1.0,true
+vin~P2C023A9GFGF62ME0%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,P2C023A9GFGF62ME0,P2C023AEGFGF62ME0,491.0,0.0,true
+vin~P2C023A9GFGF62ME0%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,P2C023A9GFGF62ME0,P2C023A9GFGF62ME0,540.0,1.0,true
+vin~P2C023A9GFGF62ME0%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,P2C023A9GFGF62ME0,P2C023AEGFGF62ME0,512.0,0.0,true
+vin~P65TYXRKBBMF15FHA%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,P65TYXRKBBMF15FHA,P65TYXRKBBMF15FHA,474.0,1.0,true
+vin~P65TYXRKBBMF15FHA%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,P65TYXRKBBMF15FHA,P65TYXRKBBMF15FHA,514.0,1.0,true
+vin~P65TYXRKBBMF15FHA%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,P65TYXRKBBMF15FHA,P65TYXRKBBJFF15FH,493.0,0.0,true
+vin~PAGH2CFBMB5919F9E%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,PAGH2CFBMB5919F9E,PAGH2CFBMB5919F9E,473.0,1.0,true
+vin~PAGH2CFBMB5919F9E%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,PAGH2CFBMB5919F9E,PPAGH2CFBMB5919F9,523.0,0.0,true
+vin~PAGH2CFBMB5919F9E%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,PAGH2CFBMB5919F9E,PAGHZCFBMB5919F9E,502.0,0.0,true
+vin~PAZ8WZ0AS2V009CAM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,PAZ8WZ0AS2V009CAM,PAZEBWZDASZV009CA,500.0,0.0,true
+vin~PAZ8WZ0AS2V009CAM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,PAZ8WZ0AS2V009CAM,PPAZ8WZ0AS2V009CA,510.0,0.0,true
+vin~PAZ8WZ0AS2V009CAM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,PAZ8WZ0AS2V009CAM,PAZ8VVZ0ASZJY009C,515.0,0.0,true
+vin~PCA7EP9RWGV1NWG1R%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,953.0,93.0,PCA7EP9RWGV1NWG1R,BDA7EP9RWGV1NWG1R,498.0,0.0,true
+vin~PCA7EP9RWGV1NWG1R%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,PCA7EP9RWGV1NWG1R,PCA7EP9RWGV1NWG1R,483.0,1.0,true
+vin~PCA7EP9RWGV1NWG1R%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,941.0,92.0,PCA7EP9RWGV1NWG1R,PCA7EP1RVVGV1NVVG,568.0,0.0,true
+vin~PEJ3193D5TCHHN143%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,PEJ3193D5TCHHN143,PEJ3193E15TCHHN14,405.0,0.0,true
+vin~PEJ3193D5TCHHN143%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,PEJ3193D5TCHHN143,PEJ3193D5TCHHN143,489.0,1.0,true
+vin~PEJ3193D5TCHHN143%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,PEJ3193D5TCHHN143,PEJ3193D5TCLHHN14,508.0,0.0,true
+vin~PLC8WZKBDE7RN86VW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,935.0,93.0,PLC8WZKBDE7RN86VW,PLC8WZKBDEZRN86VW,492.0,0.0,true
+vin~PLC8WZKBDE7RN86VW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,PLC8WZKBDE7RN86VW,PLC8WZKBDE7RN86VW,566.0,1.0,true
+vin~PLC8WZKBDE7RN86VW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,932.0,92.0,PLC8WZKBDE7RN86VW,PLCEWVZKLBDE7RN86,542.0,0.0,true
+vin~PXEABBND433JGF1MZ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,PXEABBND433JGF1MZ,PXEABE1D433JGF1MZ,553.0,0.0,true
+vin~PXEABBND433JGF1MZ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,PXEABBND433JGF1MZ,PXEABBND433JGF1MZ,491.0,1.0,true
+vin~PXEABBND433JGF1MZ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,PXEABBND433JGF1MZ,PXEABBND433JGF1MZ,491.0,1.0,true
+vin~RAFDACHYD8Y2DEC6Y%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,912.0,93.0,RAFDACHYD8Y2DEC6Y,RAFDACHYD8Y2DEC6Y,468.0,1.0,true
+vin~RAFDACHYD8Y2DEC6Y%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RAFDACHYD8Y2DEC6Y,RAFDACHYD8Y2DEC6Y,474.0,1.0,true
+vin~RAFDACHYD8Y2DEC6Y%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,921.0,92.0,RAFDACHYD8Y2DEC6Y,RAFDACEDVD8YZDEC6,502.0,0.0,true
+vin~RAK7AYAVC4XH7Z2NH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,901.0,93.0,RAK7AYAVC4XH7Z2NH,RAK7AYAYC4XH7Z2NH,456.0,0.0,true
+vin~RAK7AYAVC4XH7Z2NH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RAK7AYAVC4XH7Z2NH,RAK7AYAVC4XH7Z2NH,632.0,1.0,true
+vin~RAK7AYAVC4XH7Z2NH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,920.0,92.0,RAK7AYAVC4XH7Z2NH,RAK7AYAVC4XH7Z2NH,554.0,1.0,true
+vin~RD2215V3RLCZAUSV5%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,RD2215V3RLCZAUSV5,RD2215V3RLCEAUSV5,530.0,0.0,true
+vin~RD2215V3RLCZAUSV5%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RD2215V3RLCZAUSV5,RD2215V3RLCZAUSV5,491.0,1.0,true
+vin~RD2215V3RLCZAUSV5%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,RD2215V3RLCZAUSV5,RD2215V3RLSZAUSV5,489.0,0.0,true
+vin~RGH8X767W4A01GDT2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,RGH8X767W4A01GDT2,RGH8X767W4A01GDT2,524.0,1.0,true
+vin~RGH8X767W4A01GDT2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RGH8X767W4A01GDT2,RGH8X767W4A01GDT2,536.0,1.0,true
+vin~RGH8X767W4A01GDT2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,RGH8X767W4A01GDT2,RGH8X7E7VV4A01GDT,527.0,0.0,true
+vin~RGSRH6GT895WRM93X%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,923.0,93.0,RGSRH6GT895WRM93X,RGSRH6GT895WRM93X,532.0,1.0,true
+vin~RGSRH6GT895WRM93X%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RGSRH6GT895WRM93X,RGSRH6GT895WRM93X,467.0,1.0,true
+vin~RGSRH6GT895WRM93X%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,912.0,92.0,RGSRH6GT895WRM93X,RGSRH6GT895WVRM93,487.0,0.0,true
+vin~RKK4348RUKUHJL9PP%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,RKK4348RUKUHJL9PP,RKK4348RUKUHJL9PP,632.0,1.0,true
+vin~RKK4348RUKUHJL9PP%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RKK4348RUKUHJL9PP,RKK4348RUKUHJL9PP,466.0,1.0,true
+vin~RKK4348RUKUHJL9PP%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,RKK4348RUKUHJL9PP,RKK4348RUKUHJL9PP,482.0,1.0,true
+vin~RLEJ7SFWMCR4NRGPG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,948.0,93.0,RLEJ7SFWMCR4NRGPG,RLEJ7SFWMCR4NRGPG,461.0,1.0,true
+vin~RLEJ7SFWMCR4NRGPG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RLEJ7SFWMCR4NRGPG,BLEJ7SFWMCR4NRGPG,557.0,0.0,true
+vin~RLEJ7SFWMCR4NRGPG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,937.0,92.0,RLEJ7SFWMCR4NRGPG,RLEJ7SFVVMCR4NRGP,559.0,0.0,true
+vin~RMP3H7ZS27TP2LURD%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,RMP3H7ZS27TP2LURD,RMP3H7ZS27TP2LURD,472.0,1.0,true
+vin~RMP3H7ZS27TP2LURD%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RMP3H7ZS27TP2LURD,RMP3H7ZS27TP2LURD,615.0,1.0,true
+vin~RMP3H7ZS27TP2LURD%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,RMP3H7ZS27TP2LURD,RMP3H7ASZ7TP2LURD,493.0,0.0,true
+vin~RPBDS9WLKA52BWWCG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,980.0,93.0,RPBDS9WLKA52BWWCG,RPBDS9WLKA52BWWCG,459.0,1.0,true
+vin~RPBDS9WLKA52BWWCG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RPBDS9WLKA52BWWCG,RPBDS9WLKA52BWWCG,477.0,1.0,true
+vin~RPBDS9WLKA52BWWCG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,970.0,92.0,RPBDS9WLKA52BWWCG,RPBDSCJHVLKA52BVV,536.0,0.0,true
+vin~RUEB19DX42C0Z3WEG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,905.0,93.0,RUEB19DX42C0Z3WEG,RUEB19DX42CDZ3WEG,483.0,0.0,true
+vin~RUEB19DX42C0Z3WEG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RUEB19DX42C0Z3WEG,RUEB19DX42C0Z3WEG,501.0,1.0,true
+vin~RUEB19DX42C0Z3WEG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,RUEB19DX42C0Z3WEG,RUE819DX4250Z3VVE,506.0,0.0,true
+vin~RYSB4X2XW2MDM6SES%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,934.0,93.0,RYSB4X2XW2MDM6SES,RYSB439XW2MDM6SES,472.0,0.0,true
+vin~RYSB4X2XW2MDM6SES%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RYSB4X2XW2MDM6SES,RYSB4X2XW2MDM6SES,492.0,1.0,true
+vin~RYSB4X2XW2MDM6SES%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,924.0,92.0,RYSB4X2XW2MDM6SES,RYSB4X27XVV2MDM6S,480.0,0.0,true
+vin~RZST5DFFPD0KJ0NEF%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,RZST5DFFPD0KJ0NEF,RZST5DFFPDDKJ0NEF,458.0,0.0,true
+vin~RZST5DFFPD0KJ0NEF%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,RZST5DFFPD0KJ0NEF,RZSTBDFFPDGKJGNEF,537.0,0.0,true
+vin~RZST5DFFPD0KJ0NEF%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,RZST5DFFPD0KJ0NEF,RZST5DFFPD1KJDNEF,489.0,0.0,true
+vin~S05NBYB7L6KWVAWA1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,925.0,93.0,S05NBYB7L6KWVAWA1,SD5NBYB7L6BVWAWA1,496.0,0.0,true
+vin~S05NBYB7L6KWVAWA1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,S05NBYB7L6KWVAWA1,S05NBYB7L6KWVAWA1,511.0,1.0,true
+vin~S05NBYB7L6KWVAWA1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,918.0,92.0,S05NBYB7L6KWVAWA1,S05NBYB7L6E6VVVAV,482.0,0.0,true
+vin~S9WSVMA2TU4XFXSYN%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,917.0,93.0,S9WSVMA2TU4XFXSYN,S9WSVMA2TU4XFXSYN,462.0,1.0,true
+vin~S9WSVMA2TU4XFXSYN%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,S9WSVMA2TU4XFXSYN,S9WSVMA2TU4XFXSYN,477.0,1.0,true
+vin~S9WSVMA2TU4XFXSYN%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,918.0,92.0,S9WSVMA2TU4XFXSYN,S9VVSVMAZTU4XFXSY,512.0,0.0,true
+vin~SH4TEEJS37T6L4H3A%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,SH4TEEJS37T6L4H3A,SH4TEEJS37T6L4H3A,554.0,1.0,true
+vin~SH4TEEJS37T6L4H3A%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,SH4TEEJS37T6L4H3A,SH4TEEJSB7T6L4H3A,538.0,0.0,true
+vin~SH4TEEJS37T6L4H3A%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,SH4TEEJS37T6L4H3A,SH4TEEJS37T6LL4H3,547.0,0.0,true
+vin~SMZRTH2Z20HL7Z1JW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,SMZRTH2Z20HL7Z1JW,SMZRTH2Z20HL7Z1JW,450.0,1.0,true
+vin~SMZRTH2Z20HL7Z1JW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,SMZRTH2Z20HL7Z1JW,SMZRTH2Z20HL7Z1JW,950.0,1.0,true
+vin~SMZRTH2Z20HL7Z1JW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,SMZRTH2Z20HL7Z1JW,SMZRTH2Z20HL7Z1JW,576.0,1.0,true
+vin~SSKU9U85XJ9C2LHNZ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,SSKU9U85XJ9C2LHNZ,SSKU9UE5XJ9C2LHNZ,473.0,0.0,true
+vin~SSKU9U85XJ9C2LHNZ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,SSKU9U85XJ9C2LHNZ,SSKU9U85XJ9C2LHNZ,486.0,1.0,true
+vin~SSKU9U85XJ9C2LHNZ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,SSKU9U85XJ9C2LHNZ,SSKU9U85XJ9CZLHNZ,534.0,0.0,true
+vin~SSL01T62PRVH0E5NV%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,SSL01T62PRVH0E5NV,ESL01T62PRVH0E5NV,593.0,0.0,true
+vin~SSL01T62PRVH0E5NV%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,SSL01T62PRVH0E5NV,PSSL01T62PRVH0EBN,416.0,0.0,true
+vin~SSL01T62PRVH0E5NV%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,SSL01T62PRVH0E5NV,SSL01T62PRVH0E5NV,477.0,1.0,true
+vin~SYN1VSKGMN69453CJ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,SYN1VSKGMN69453CJ,SYN1VSKGMNE9453CJ,471.0,0.0,true
+vin~SYN1VSKGMN69453CJ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,SYN1VSKGMN69453CJ,SYN1VSKGMN69453CJ,463.0,1.0,true
+vin~SYN1VSKGMN69453CJ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,SYN1VSKGMN69453CJ,SYN1VSKGMN69453CJ,509.0,1.0,true
+vin~SYYY12FKN8K93J1Y6%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,SYYY12FKN8K93J1Y6,SYYY12FKN8P93J1Y6,526.0,0.0,true
+vin~SYYY12FKN8K93J1Y6%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,SYYY12FKN8K93J1Y6,SYYY12FKN8K93J1Y6,470.0,1.0,true
+vin~SYYY12FKN8K93J1Y6%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,SYYY12FKN8K93J1Y6,SYYYHZFKN87K93J1Y,495.0,0.0,true
+vin~T32R7AU0VJKJB2HTH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,T32R7AU0VJKJB2HTH,T32R7AU0VJPLJB2HT,447.0,0.0,true
+vin~T32R7AU0VJKJB2HTH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,T32R7AU0VJKJB2HTH,PT32R7AU0VJKJB2HT,549.0,0.0,true
+vin~T32R7AU0VJKJB2HTH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,T32R7AU0VJKJB2HTH,T32R7AU0VJKJB2HTH,521.0,1.0,true
+vin~T3DY16FPFGLT95H5S%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,T3DY16FPFGLT95H5S,T3DY16FPFGLT95H5S,441.0,1.0,true
+vin~T3DY16FPFGLT95H5S%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,T3DY16FPFGLT95H5S,PTBDY16FPFGLT95HB,468.0,0.0,true
+vin~T3DY16FPFGLT95H5S%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,T3DY16FPFGLT95H5S,T3DY16FPFGLT95H5S,462.0,1.0,true
+vin~T4H5610DZ17B3LLBE%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,T4H5610DZ17B3LLBE,T4H5610DZ17B3LLBE,459.0,1.0,true
+vin~T4H5610DZ17B3LLBE%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,T4H5610DZ17B3LLBE,T4H5610DZ17B3LLBE,521.0,1.0,true
+vin~T4H5610DZ17B3LLBE%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,T4H5610DZ17B3LLBE,T4H56111DZE7B3LLB,503.0,0.0,true
+vin~T54CXA8TZX5EWA4GV%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,T54CXA8TZX5EWA4GV,T54CXA8TZX5EWA4GV,539.0,1.0,true
+vin~T54CXA8TZX5EWA4GV%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,T54CXA8TZX5EWA4GV,T54CXA8TZX5EWA4GV,658.0,1.0,true
+vin~T54CXA8TZX5EWA4GV%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,901.0,92.0,T54CXA8TZX5EWA4GV,T54CXA8TZX5EVVA4G,535.0,0.0,true
+vin~T6NSZKEFH8U5SL9FC%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,T6NSZKEFH8U5SL9FC,T6NSZEEFH8U5SL9FC,495.0,0.0,true
+vin~T6NSZKEFH8U5SL9FC%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,T6NSZKEFH8U5SL9FC,T6NSZKEFH8UBSL9FC,505.0,0.0,true
+vin~T6NSZKEFH8U5SL9FC%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,T6NSZKEFH8U5SL9FC,T6NSZKEFH8U5SL9FC,483.0,1.0,true
+vin~TF426UNBEV3BLD0G4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,TF426UNBEV3BLD0G4,TF426UNBEV35LDDG4,517.0,0.0,true
+vin~TF426UNBEV3BLD0G4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,TF426UNBEV3BLD0G4,TF426UNBEV3BLD0G4,483.0,1.0,true
+vin~TF426UNBEV3BLD0G4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,TF426UNBEV3BLD0G4,TF426UNBEV3ELD0G4,681.0,0.0,true
+vin~TK5YW6FWCEAKJKFK2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,928.0,93.0,TK5YW6FWCEAKJKFK2,TK5YW6FWCEAKJKFK2,456.0,1.0,true
+vin~TK5YW6FWCEAKJKFK2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,TK5YW6FWCEAKJKFK2,TK5YW6FWCEAKJKFK2,522.0,1.0,true
+vin~TK5YW6FWCEAKJKFK2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,944.0,92.0,TK5YW6FWCEAKJKFK2,TK51W6FWCEAKJKFKZ,540.0,0.0,true
+vin~TKSUR0YBBEM2J84RR%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,906.0,93.0,TKSUR0YBBEM2J84RR,TKSUR0YBBEM2J84RR,510.0,1.0,true
+vin~TKSUR0YBBEM2J84RR%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,TKSUR0YBBEM2J84RR,TKSUR0YBBEM2J84RR,511.0,1.0,true
+vin~TKSUR0YBBEM2J84RR%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,TKSUR0YBBEM2J84RR,TKSURDYBBEM2J84RR,506.0,0.0,true
+vin~TPJVFTK41H3R6KCHA%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,TPJVFTK41H3R6KCHA,TPJVFTK41H3R6KCHA,450.0,1.0,true
+vin~TPJVFTK41H3R6KCHA%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,TPJVFTK41H3R6KCHA,TPJVFTK41H3R6KCHA,473.0,1.0,true
+vin~TPJVFTK41H3R6KCHA%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,TPJVFTK41H3R6KCHA,TPJVFTK41H3R6KCHA,459.0,1.0,true
+vin~U6UE8V5SVG2006XLB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,U6UE8V5SVG2006XLB,U6UE8V5SVG2006XLB,462.0,1.0,true
+vin~U6UE8V5SVG2006XLB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,U6UE8V5SVG2006XLB,U6UE8VBSVG2006XLB,487.0,0.0,true
+vin~U6UE8V5SVG2006XLB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,U6UE8V5SVG2006XLB,U6UE8V5SVG2006XLB,465.0,1.0,true
+vin~UD95U9YCXJCUCMGV2%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,919.0,93.0,UD95U9YCXJCUCMGV2,UD95U9YCXJCUCMGV2,477.0,1.0,true
+vin~UD95U9YCXJCUCMGV2%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,UD95U9YCXJCUCMGV2,UD95U9YCXJCUCMGV2,475.0,1.0,true
+vin~UD95U9YCXJCUCMGV2%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,918.0,92.0,UD95U9YCXJCUCMGV2,UD95WJYCXJSUCMGVZ,514.0,0.0,true
+vin~UG8Y79PBU27KVDKF3%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,UG8Y79PBU27KVDKF3,UG8Y79PBU27KVDKF3,485.0,1.0,true
+vin~UG8Y79PBU27KVDKF3%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,UG8Y79PBU27KVDKF3,UG8Y79PBU27KVDKF3,520.0,1.0,true
+vin~UG8Y79PBU27KVDKF3%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,UG8Y79PBU27KVDKF3,UG8Y79PB7UZ7KVDKF,512.0,0.0,true
+vin~UM65M0FYF3FGY8A2J%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,UM65M0FYF3FGY8A2J,UM65M0FYF3FGYC8A2,462.0,0.0,true
+vin~UM65M0FYF3FGY8A2J%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,UM65M0FYF3FGY8A2J,UM65M0FYFBFGY8A2J,554.0,0.0,true
+vin~UM65M0FYF3FGY8A2J%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,UM65M0FYF3FGY8A2J,UM65MDFYFPFGY8A2J,504.0,0.0,true
+vin~UMY0TFDN61Y7WCV6C%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,914.0,93.0,UMY0TFDN61Y7WCV6C,UMY0TFDN61Y7WCV6C,422.0,1.0,true
+vin~UMY0TFDN61Y7WCV6C%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,UMY0TFDN61Y7WCV6C,UMY0TFDN61Y7WCV6C,463.0,1.0,true
+vin~UMY0TFDN61Y7WCV6C%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,921.0,92.0,UMY0TFDN61Y7WCV6C,UMY0TFDN61Y7WCV6C,505.0,1.0,true
+vin~UPUW09PBNNXBUA6NL%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,937.0,93.0,UPUW09PBNNXBUA6NL,UPUW09P7BNNXBUA6N,460.0,0.0,true
+vin~UPUW09PBNNXBUA6NL%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,UPUW09PBNNXBUA6NL,UPUW09PBNNXBUA6NL,549.0,1.0,true
+vin~UPUW09PBNNXBUA6NL%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,921.0,92.0,UPUW09PBNNXBUA6NL,UPUHV09PBRNNXBUMJ,451.0,0.0,true
+vin~UR4XEYNWV6A5HT3RR%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,919.0,93.0,UR4XEYNWV6A5HT3RR,UR4XEYNWV6A5HT3RR,483.0,1.0,true
+vin~UR4XEYNWV6A5HT3RR%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,UR4XEYNWV6A5HT3RR,UR4XEYNWV6A5HT3RR,529.0,1.0,true
+vin~UR4XEYNWV6A5HT3RR%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,930.0,92.0,UR4XEYNWV6A5HT3RR,UR4XEYNVVV6A5HT3R,510.0,0.0,true
+vin~UU8WGVWCPGDEGN9RD%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,991.0,93.0,UU8WGVWCPGDEGN9RD,UU8WGVWCPGDEGN9RD,494.0,1.0,true
+vin~UU8WGVWCPGDEGN9RD%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,UU8WGVWCPGDEGN9RD,UU8WGVWCPGDEGN9RD,493.0,1.0,true
+vin~UU8WGVWCPGDEGN9RD%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,991.0,92.0,UU8WGVWCPGDEGN9RD,UU8VVGVVVCPGDEGNC,493.0,0.0,true
+vin~V0W5WNA04BKVNXZ99%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,915.0,93.0,V0W5WNA04BKVNXZ99,V0W5WNA04BKVNXZ99,518.0,1.0,true
+vin~V0W5WNA04BKVNXZ99%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,V0W5WNA04BKVNXZ99,V0W5WNA04BKVNXZ99,483.0,1.0,true
+vin~V0W5WNA04BKVNXZ99%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,916.0,92.0,V0W5WNA04BKVNXZ99,V0VV5VVNA04BKVNXZ,504.0,0.0,true
+vin~V4PZKE9KBUCBW7PBK%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,935.0,93.0,V4PZKE9KBUCBW7PBK,V4PZKE1KBUCBW7PBK,482.0,0.0,true
+vin~V4PZKE9KBUCBW7PBK%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,V4PZKE9KBUCBW7PBK,V4PZKE9KBUCBW7PBK,535.0,1.0,true
+vin~V4PZKE9KBUCBW7PBK%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,923.0,92.0,V4PZKE9KBUCBW7PBK,V4PZKE9EEBUCBVV7P,478.0,0.0,true
+vin~V76LB364WE2TYL6P9%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,V76LB364WE2TYL6P9,V76LB364WE2TYL6P9,481.0,1.0,true
+vin~V76LB364WE2TYL6P9%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,V76LB364WE2TYL6P9,V76LB364WE2TYL6P9,793.0,1.0,true
+vin~V76LB364WE2TYL6P9%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,V76LB364WE2TYL6P9,V76LB364VVE2TYL6P,481.0,0.0,true
+vin~VGCYCB5PXN8MC3PJG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,926.0,93.0,VGCYCB5PXN8MC3PJG,VGCYCB5PXNEMC3PJG,537.0,0.0,true
+vin~VGCYCB5PXN8MC3PJG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,VGCYCB5PXN8MC3PJG,VGCYCBBPXN8MC3PJG,502.0,0.0,true
+vin~VGCYCB5PXN8MC3PJG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,916.0,92.0,VGCYCB5PXN8MC3PJG,VGCYCB5PXN1HC3PJG,523.0,0.0,true
+vin~VHZ3MR293R2SD16S1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,VHZ3MR293R2SD16S1,VHZ3MR293R2SD16S1,538.0,1.0,true
+vin~VHZ3MR293R2SD16S1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,VHZ3MR293R2SD16S1,VHZBMR293R2SD16S1,713.0,0.0,true
+vin~VHZ3MR293R2SD16S1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,VHZ3MR293R2SD16S1,VHZ3MR293R2SD16S1,490.0,1.0,true
+vin~VPT0X75KH5392BMKN%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,VPT0X75KH5392BMKN,VPT0X75KH5392BMKN,507.0,1.0,true
+vin~VPT0X75KH5392BMKN%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,VPT0X75KH5392BMKN,VPT0X75KH5392BMKN,497.0,1.0,true
+vin~VPT0X75KH5392BMKN%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,VPT0X75KH5392BMKN,VPT0X755H53928MKN,495.0,0.0,true
+vin~VZ83GKKT25RZHPD0C%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,VZ83GKKT25RZHPD0C,VZ83GKKT25RZHPDDC,473.0,0.0,true
+vin~VZ83GKKT25RZHPD0C%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,VZ83GKKT25RZHPD0C,VZ83GKKT25RZHPD0C,461.0,1.0,true
+vin~VZ83GKKT25RZHPD0C%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,VZ83GKKT25RZHPD0C,VZ83GKKT25RZHPD0C,481.0,1.0,true
+vin~W0WKKC9191U8W2WWM%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,989.0,93.0,W0WKKC9191U8W2WWM,W0WKKC9191U8W2WWM,504.0,1.0,true
+vin~W0WKKC9191U8W2WWM%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,W0WKKC9191U8W2WWM,W0WKKC9191U8W2WWM,557.0,1.0,true
+vin~W0WKKC9191U8W2WWM%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,996.0,92.0,W0WKKC9191U8W2WWM,VV0VVKKC9191U8VV2,525.0,0.0,true
+vin~W1KKD6FE99HXKTAFX%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,906.0,93.0,W1KKD6FE99HXKTAFX,W1KKD6FE99HXKTAFX,527.0,1.0,true
+vin~W1KKD6FE99HXKTAFX%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,W1KKD6FE99HXKTAFX,W1KKD6FE99HXKTAFX,505.0,1.0,true
+vin~W1KKD6FE99HXKTAFX%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,922.0,92.0,W1KKD6FE99HXKTAFX,VHKKD6FE99HXKTAFX,401.0,0.0,true
+vin~WB7NCE8U2LT7AV1VS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,WB7NCE8U2LT7AV1VS,WB7NCE8U2ET7AV1VS,489.0,0.0,true
+vin~WB7NCE8U2LT7AV1VS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WB7NCE8U2LT7AV1VS,WB7NCE8U2LT7AV1VS,513.0,1.0,true
+vin~WB7NCE8U2LT7AV1VS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,WB7NCE8U2LT7AV1VS,WB7NCE8U2LT7AV1VS,459.0,1.0,true
+vin~WBN2GN5GC3L7GSALB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,937.0,93.0,WBN2GN5GC3L7GSALB,WBN2GN5GC3L7GSALB,467.0,1.0,true
+vin~WBN2GN5GC3L7GSALB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WBN2GN5GC3L7GSALB,WBN2GN5GC3L7GSALB,478.0,1.0,true
+vin~WBN2GN5GC3L7GSALB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,917.0,92.0,WBN2GN5GC3L7GSALB,VVBNZGNEGC3L7GSAL,467.0,0.0,true
+vin~WDK6HP1CHXT9NWPGZ%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,952.0,93.0,WDK6HP1CHXT9NWPGZ,WDK6HP1CHXT9NWPGZ,462.0,1.0,true
+vin~WDK6HP1CHXT9NWPGZ%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WDK6HP1CHXT9NWPGZ,WDK6HP1CHXT9NWPGZ,510.0,1.0,true
+vin~WDK6HP1CHXT9NWPGZ%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,961.0,92.0,WDK6HP1CHXT9NWPGZ,VVDKCJHPKVHXTCJNV,925.0,0.0,true
+vin~WL9RKELNF8TKTJFJG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,WL9RKELNF8TKTJFJG,WL9RKELNF8TKTJFJG,473.0,1.0,true
+vin~WL9RKELNF8TKTJFJG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WL9RKELNF8TKTJFJG,WL9RKELNF8TKTJFJG,521.0,1.0,true
+vin~WL9RKELNF8TKTJFJG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,903.0,92.0,WL9RKELNF8TKTJFJG,HVLCJRKEENF8TKTJF,490.0,0.0,true
+vin~WMXZMTV6CPM4R2X8P%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,935.0,93.0,WMXZMTV6CPM4R2X8P,WMXZMTV6CPM4R2X8P,465.0,1.0,true
+vin~WMXZMTV6CPM4R2X8P%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WMXZMTV6CPM4R2X8P,WMXZMTV6CPM4R2X8P,494.0,1.0,true
+vin~WMXZMTV6CPM4R2X8P%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,959.0,92.0,WMXZMTV6CPM4R2X8P,HVMXZMTKTJCEH4R2X,498.0,0.0,true
+vin~WP2CX3X4D3FX2MGV0%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,904.0,93.0,WP2CX3X4D3FX2MGV0,WP2CX3X4D3FX2MGV0,550.0,1.0,true
+vin~WP2CX3X4D3FX2MGV0%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WP2CX3X4D3FX2MGV0,WP2CX3X4D3FX2MGV0,502.0,1.0,true
+vin~WP2CX3X4D3FX2MGV0%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,902.0,92.0,WP2CX3X4D3FX2MGV0,VVPZCXSBXEEDSBFXZ,382.0,0.0,true
+vin~WSW08XJC15C2FAWT1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,915.0,93.0,WSW08XJC15C2FAWT1,WSW08X1C15C2FAWT1,376.0,0.0,true
+vin~WSW08XJC15C2FAWT1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WSW08XJC15C2FAWT1,WSW08XJC15C2FAWT1,417.0,1.0,true
+vin~WSW08XJC15C2FAWT1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,WSW08XJC15C2FAWT1,WSW08XJC15C2FAWT1,519.0,1.0,true
+vin~WX8CPM0SMMYM85AJH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,951.0,93.0,WX8CPM0SMMYM85AJH,WX8CPMDSMMJM85AJH,530.0,0.0,true
+vin~WX8CPM0SMMYM85AJH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WX8CPM0SMMYM85AJH,WX8CPM0SMMYM85AJH,581.0,1.0,true
+vin~WX8CPM0SMMYM85AJH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,971.0,92.0,WX8CPM0SMMYM85AJH,VVX8CPM0SMMYM85AJ,504.0,0.0,true
+vin~WYBH59766W74LYTU4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,WYBH59766W74LYTU4,WYBH59766W74LYTU4,480.0,1.0,true
+vin~WYBH59766W74LYTU4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,WYBH59766W74LYTU4,WYBH59766W74LYTU4,475.0,1.0,true
+vin~WYBH59766W74LYTU4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,WYBH59766W74LYTU4,BVYBH59766VV74LYT,480.0,0.0,true
+vin~X2T55J8XR5M34JPUH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,X2T55J8XR5M34JPUH,X2T55J8XR5M34JPUH,447.0,1.0,true
+vin~X2T55J8XR5M34JPUH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,X2T55J8XR5M34JPUH,X2T55J8XR5M34JPUH,501.0,1.0,true
+vin~X2T55J8XR5M34JPUH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,X2T55J8XR5M34JPUH,X2T55J8XR5M347JPU,485.0,0.0,true
+vin~X4J62A8KCXDZ9KU7Y%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,X4J62A8KCXDZ9KU7Y,X4J62A8KCXDZ9KU7Y,511.0,1.0,true
+vin~X4J62A8KCXDZ9KU7Y%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,X4J62A8KCXDZ9KU7Y,X4J62A8KCXDZ9KU7Y,503.0,1.0,true
+vin~X4J62A8KCXDZ9KU7Y%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,X4J62A8KCXDZ9KU7Y,X4J62A8HLCXDZ9KU7,486.0,0.0,true
+vin~X5EEJT214ZCXL21RS%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,X5EEJT214ZCXL21RS,X5EEJT214ZCXL21RS,520.0,1.0,true
+vin~X5EEJT214ZCXL21RS%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,X5EEJT214ZCXL21RS,55EEJT214ZCXL21RS,539.0,0.0,true
+vin~X5EEJT214ZCXL21RS%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,X5EEJT214ZCXL21RS,X5EEJT214ZCXL21RS,575.0,1.0,true
+vin~X8E2PYAS2LL4JW8SG%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,X8E2PYAS2LL4JW8SG,X8E2PYAS2L7L4JW8S,516.0,0.0,true
+vin~X8E2PYAS2LL4JW8SG%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,X8E2PYAS2LL4JW8SG,X8E2PYAS2LL4JW8SG,528.0,1.0,true
+vin~X8E2PYAS2LL4JW8SG%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,X8E2PYAS2LL4JW8SG,X8E2PYAS2LL4JW8SG,509.0,1.0,true
+vin~XA6U7NMTHVH2H3BA1%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,905.0,93.0,XA6U7NMTHVH2H3BA1,XA6U7NMTHVH2H3BA1,491.0,1.0,true
+vin~XA6U7NMTHVH2H3BA1%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XA6U7NMTHVH2H3BA1,XA6U7NMTHVH2H3BA1,581.0,1.0,true
+vin~XA6U7NMTHVH2H3BA1%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,917.0,92.0,XA6U7NMTHVH2H3BA1,XA6U7NMTHXEZH3BA1,511.0,0.0,true
+vin~XHD1EHBKK866FWG07%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,910.0,93.0,XHD1EHBKK866FWG07,XHD1EHBKK866FWGDZ,515.0,0.0,true
+vin~XHD1EHBKK866FWG07%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XHD1EHBKK866FWG07,XHD1EHBKK866FWG07,468.0,1.0,true
+vin~XHD1EHBKK866FWG07%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,901.0,92.0,XHD1EHBKK866FWG07,XHD1EH7BKK866FVVG,521.0,0.0,true
+vin~XJ1ZGP2PB0MK46J2M%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,XJ1ZGP2PB0MK46J2M,XJ1ZGP2PB0MK46J2M,472.0,1.0,true
+vin~XJ1ZGP2PB0MK46J2M%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XJ1ZGP2PB0MK46J2M,XJ1ZGP2PB0MK46J2M,508.0,1.0,true
+vin~XJ1ZGP2PB0MK46J2M%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,XJ1ZGP2PB0MK46J2M,XJ1ZGP2PB0MK46JZM,549.0,0.0,true
+vin~XM1K67X9LNLM23Y1H%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,XM1K67X9LNLM23Y1H,XM1K67X9LN7LM23Y1,500.0,0.0,true
+vin~XM1K67X9LNLM23Y1H%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XM1K67X9LNLM23Y1H,XM1K67X9LNLM23Y1H,557.0,1.0,true
+vin~XM1K67X9LNLM23Y1H%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,XM1K67X9LNLM23Y1H,XM1K67X9LNLMZ3Y1H,573.0,0.0,true
+vin~XMAKELSLNZE6VS747%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,XMAKELSLNZE6VS747,XMAKELSLNZE6VS747,547.0,1.0,true
+vin~XMAKELSLNZE6VS747%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XMAKELSLNZE6VS747,XMAKELSLNZE6VS747,525.0,1.0,true
+vin~XMAKELSLNZE6VS747%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,XMAKELSLNZE6VS747,XMAKELSLNZECJVSWH,487.0,0.0,true
+vin~XT6A4BD3PR9RCBA7L%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,XT6A4BD3PR9RCBA7L,XT6A4BD3PR9RCBA7L,572.0,1.0,true
+vin~XT6A4BD3PR9RCBA7L%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XT6A4BD3PR9RCBA7L,XT6A4BDBPR9RCBA7L,621.0,0.0,true
+vin~XT6A4BD3PR9RCBA7L%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,XT6A4BD3PR9RCBA7L,XT6A4BD3PR2RCBA7L,520.0,0.0,true
+vin~XTD8W449KRT6HYRYE%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,XTD8W449KRT6HYRYE,XTD8W449KRT6HYRYE,558.0,1.0,true
+vin~XTD8W449KRT6HYRYE%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XTD8W449KRT6HYRYE,XTD8W449KRT6HYRYE,614.0,1.0,true
+vin~XTD8W449KRT6HYRYE%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,911.0,92.0,XTD8W449KRT6HYRYE,XTD8VV4479KRT6HYR,1605.0,0.0,true
+vin~XVY7EP45T2HLJUT0D%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,XVY7EP45T2HLJUT0D,XVY7EP45T2HLJUT0D,499.0,1.0,true
+vin~XVY7EP45T2HLJUT0D%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,XVY7EP45T2HLJUT0D,XVY7EP45T2HLJUT0D,521.0,1.0,true
+vin~XVY7EP45T2HLJUT0D%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,XVY7EP45T2HLJUT0D,XVY7EP45T2HLJUT0D,615.0,1.0,true
+vin~Y4DTHA9GSZ3JVR7BK%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,Y4DTHA9GSZ3JVR7BK,Y4DTHA9GSZ3JVR7BK,506.0,1.0,true
+vin~Y4DTHA9GSZ3JVR7BK%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,Y4DTHA9GSZ3JVR7BK,Y4DTHA9GSZ3JVR7BK,488.0,1.0,true
+vin~Y4DTHA9GSZ3JVR7BK%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,Y4DTHA9GSZ3JVR7BK,Y4DTHACJGSZ3JVR7B,585.0,0.0,true
+vin~Y7X9ED926V8X265ZF%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,Y7X9ED926V8X265ZF,Y7X9ED926V8X265ZF,548.0,1.0,true
+vin~Y7X9ED926V8X265ZF%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,Y7X9ED926V8X265ZF,E7X9ED926V8X265ZF,526.0,0.0,true
+vin~Y7X9ED926V8X265ZF%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,Y7X9ED926V8X265ZF,Y7X9ED9276V8X265Z,552.0,0.0,true
+vin~Y9BTKZ583HJXM6LCF%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,Y9BTKZ583HJXM6LCF,Y9BTKZ583HJXM6LCF,569.0,1.0,true
+vin~Y9BTKZ583HJXM6LCF%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,Y9BTKZ583HJXM6LCF,Y9BTKZ583HJXM6LCF,540.0,1.0,true
+vin~Y9BTKZ583HJXM6LCF%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,Y9BTKZ583HJXM6LCF,Y98TKZ583H1XM6LCF,402.0,0.0,true
+vin~YHVJ4P9V5LUMVWUEE%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,916.0,93.0,YHVJ4P9V5LUMVWUEE,YHVJ4P9V5LUMVWUEE,496.0,1.0,true
+vin~YHVJ4P9V5LUMVWUEE%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,YHVJ4P9V5LUMVWUEE,YHVJ4P9V5LUMVWUEP,626.0,0.0,true
+vin~YHVJ4P9V5LUMVWUEE%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,933.0,92.0,YHVJ4P9V5LUMVWUEE,YHMJ4P9L5LUMVVVUE,1039.0,0.0,true
+vin~YN3J8VF66KW6K9MXW%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,914.0,93.0,YN3J8VF66KW6K9MXW,YN3J8VF66KW6K9MXW,849.0,1.0,true
+vin~YN3J8VF66KW6K9MXW%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,YN3J8VF66KW6K9MXW,YN3J8VF66KW6K9MXW,575.0,1.0,true
+vin~YN3J8VF66KW6K9MXW%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,920.0,92.0,YN3J8VF66KW6K9MXW,YN3J8VF66KYV6K9MX,526.0,0.0,true
+vin~YPY3A6EUGXV9EBLV4%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,YPY3A6EUGXV9EBLV4,YPY3A6EUGXV9EBLV4,544.0,1.0,true
+vin~YPY3A6EUGXV9EBLV4%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,YPY3A6EUGXV9EBLV4,YPY3A6EUGXV9EBLV4,800.0,1.0,true
+vin~YPY3A6EUGXV9EBLV4%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,YPY3A6EUGXV9EBLV4,YPY3A6EUGXL9EBLV4,696.0,0.0,true
+vin~YRLUS21KJJLFH3ABT%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,YRLUS21KJJLFH3ABT,YRLUS21KJJLFH3ABT,698.0,1.0,true
+vin~YRLUS21KJJLFH3ABT%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,YRLUS21KJJLFH3ABT,YRLUS21KJJLFH3ABT,536.0,1.0,true
+vin~YRLUS21KJJLFH3ABT%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,YRLUS21KJJLFH3ABT,YRLUSZ1KJJLFH3ABT,530.0,0.0,true
+vin~YYT090VEMJY3BK2NH%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,YYT090VEMJY3BK2NH,YYT090VEMJY3BK2NH,467.0,1.0,true
+vin~YYT090VEMJY3BK2NH%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,YYT090VEMJY3BK2NH,YYT090VEMJY3BK2NH,500.0,1.0,true
+vin~YYT090VEMJY3BK2NH%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,YYT090VEMJY3BK2NH,YYT090VEMJY3BK2NH,572.0,1.0,true
+vin~Z8PKAZFDU0XFG0J1L%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,Z8PKAZFDU0XFG0J1L,Z8PKAZFDU0XFG0J1L,481.0,1.0,true
+vin~Z8PKAZFDU0XFG0J1L%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,Z8PKAZFDU0XFG0J1L,PZ8PKAZFDU0XFG0J1,556.0,0.0,true
+vin~Z8PKAZFDU0XFG0J1L%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,Z8PKAZFDU0XFG0J1L,Z8PKAZFDU0X7FG0J1,551.0,0.0,true
+vin~Z90RK2F6TDGYCRPMB%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,910.0,93.0,Z90RK2F6TDGYCRPMB,Z90RK2F6TDGYCRPMB,478.0,1.0,true
+vin~Z90RK2F6TDGYCRPMB%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,Z90RK2F6TDGYCRPMB,Z90RK2F6TDGYCRPMB,527.0,1.0,true
+vin~Z90RK2F6TDGYCRPMB%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,905.0,92.0,Z90RK2F6TDGYCRPMB,Z90RK2F6TDGYCRPMB,586.0,1.0,true
+vin~ZEHWK18GR1S8621R6%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,ZEHWK18GR1S8621R6,ZEHWK18GR1S8621R6,552.0,1.0,true
+vin~ZEHWK18GR1S8621R6%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,ZEHWK18GR1S8621R6,EEHWK18GR1S8621R6,508.0,0.0,true
+vin~ZEHWK18GR1S8621R6%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,ZEHWK18GR1S8621R6,ZEHVVK18GR1S8621R,506.0,0.0,true
+vin~ZG4PHWFSJJ15VXP83%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,ZG4PHWFSJJ15VXP83,ZG4PHV1FSJJ15VXP8,507.0,0.0,true
+vin~ZG4PHWFSJJ15VXP83%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,ZG4PHWFSJJ15VXP83,PZG4PHWFSJJ15VXP8,574.0,0.0,true
+vin~ZG4PHWFSJJ15VXP83%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,ZG4PHWFSJJ15VXP83,ZG4PHHESJJ15VXP83,517.0,0.0,true
+vin~ZK47H8K3N4RH2TUXU%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,ZK47H8K3N4RH2TUXU,ZK47H8K3N4RH2TUXU,604.0,1.0,true
+vin~ZK47H8K3N4RH2TUXU%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,ZK47H8K3N4RH2TUXU,ZK47H8K3N4RH2TUXU,517.0,1.0,true
+vin~ZK47H8K3N4RH2TUXU%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,ZK47H8K3N4RH2TUXU,ZK47H8K3N4RE2TUXU,594.0,0.0,true
+vin~ZLFH5ZPMKCBWWDU5U%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,962.0,93.0,ZLFH5ZPMKCBWWDU5U,ZLFH5ZPMKCBWWDU5U,505.0,1.0,true
+vin~ZLFH5ZPMKCBWWDU5U%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,ZLFH5ZPMKCBWWDU5U,ZLFH5ZPMKCBWWDUBU,543.0,0.0,true
+vin~ZLFH5ZPMKCBWWDU5U%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,979.0,92.0,ZLFH5ZPMKCBWWDU5U,ZLFH5ZPLHKCBVVVVD,508.0,0.0,true
+vin~ZLYG36S1MTHACW00E%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,906.0,93.0,ZLYG36S1MTHACW00E,ZLYG3SS1MTHACW00E,550.0,0.0,true
+vin~ZLYG36S1MTHACW00E%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,ZLYG36S1MTHACW00E,PZLYG36S1MTHACW00,550.0,0.0,true
+vin~ZLYG36S1MTHACW00E%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,910.0,92.0,ZLYG36S1MTHACW00E,ZLYG36S1MTFHACWME,551.0,0.0,true
+vin~ZX11GPBVU8HBJHR56%font~arial%textColor~black%bgColor~white%fontSize~80.jpg,arial,black,white,900.0,93.0,ZX11GPBVU8HBJHR56,ZX11GPBVU8HBJHR56,910.0,1.0,true
+vin~ZX11GPBVU8HBJHR56%font~courier new%textColor~black%bgColor~white%fontSize~80.jpg,courier new,black,white,900.0,91.0,ZX11GPBVU8HBJHR56,EX11GPBVU8HBJHR56,466.0,0.0,true
+vin~ZX11GPBVU8HBJHR56%font~times new roman%textColor~black%bgColor~white%fontSize~80.jpg,times new roman,black,white,900.0,92.0,ZX11GPBVU8HBJHR56,ZX11GPEVU8HBJHR56,532.0,0.0,true

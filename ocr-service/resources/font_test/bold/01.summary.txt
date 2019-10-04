@@ -1,0 +1,5 @@
+font                          average_ok_ratio                     min       max              successful_cases                   total_cases
+all                              0.52000                           0.0       1.0                           468                           900
+times new roman                  0.25333                           0.0       1.0                            76                           300
+courier new                      0.66333                           0.0       1.0                           199                           300
+arial                            0.64333                           0.0       1.0                           193                           300
