@@ -60,19 +60,24 @@
     (ImageIO/write image "png" file)))  
 
 (defn split-vin [x] (string/split x #"[~%]"))
-(defn new-file-name [x] (str ((split-vin x) 1) ".png"))
+(defn new-file-name [x] (str (re-find #".*\." x) "png"))
+
 (defn get-files [] (map #(.getName %) (.listFiles (File. "./resources/cloud_test"))))
 
 (str (split-vin (apply str (take 1 (get-files)))) 1)
 
-(defn copy-file [x]
-  (let [new-name (str "./resources/test/" (new-file-name x))
-        old-name (str "./resources/cloud_test/" x)]
+(defn copy-file [x from to]
+  (let [new-name (new-file-name x)
+        old-name x
+        old-path (str from old-name)
+        new-path (str to new-name)]
     (do
       (str "old: " old-name " new: " new-name)
-      (io/copy (io/file old-name) (io/file new-name)))))      
+      (io/copy (io/file old-path) (io/file new-path)))))      
       
 (take 2(map #(copy-file %) (get-files)))  
+
+(take 2 (map #(copy-file % "resources/font_test/bold/" "resources/font_test/bold_png/") (get-file-from "resouces/font_test/bold")))
 
 (defn get-file-from [x]
    (map #(.getName %) (.listFiles (io/file x))))
@@ -102,18 +107,31 @@
 (defn my-compare [a b]
   (let 
     [result (trim-all-spaces a)
-     name (first (string/split b #"[.]"))]
+     name b]
+;     name (first (string/split b #"[.]"))]
+;    name (trim-all-spaces b)
     (when (not= result name)                                              
       (str result " != " name))))
   
       ;(str a " not match " name)
       
       
-      
+(defn vin-str [x]
+  (re-find #"[A-Z0-9]{17}" x))      
+
 (defn test-ocr [path]
 ;  (map #((if (= %1 (first (string/split %2 #"[.]"))) "match" "not match")) (zipmap (scan-all path) (get-file-from path)))
-   (map #(my-compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path))))
+   (map 
+     #(my-compare (first %) (vin-str (last %)))
+     (zipmap (scan-all path) (get-file-from path))))
    ;(count (seq (map #(compare (first %) (last %)) (zipmap (scan-all path) (get-file-from path)))))
+
+(defn ocr-test-report [path]
+  (let [result (test-ocr path)
+        total (count result)
+        success (count (filter #(nil? %) result))
+        failed (count (filter #(not (nil? %)) result))]
+    (str "total: " total " success: " success " failed: " failed " rate: " (float (/ success total)))))
   
   
   
