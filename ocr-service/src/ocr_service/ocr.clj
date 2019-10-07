@@ -72,8 +72,9 @@
         old-path (str from old-name)
         new-path (str to new-name)]
     (do
-      (str "old: " old-name " new: " new-name)
-      (io/copy (io/file old-path) (io/file new-path)))))      
+      (println (str "old: " old-name " new: " new-name))
+      (io/copy (io/file old-path) (io/file new-path)))))
+          
       
 (take 2(map #(copy-file %) (get-files)))  
 
